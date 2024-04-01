@@ -1,0 +1,952 @@
+,brand_names,price,rating,has_5G,ChipSet,Processor_Company,Processor_Name,Processor_Core,Processor_Speed_in_GHz,RAM_in_GB,ROM_in_GB,Battery_Capacity_mAh,Supports_Fast_Charging,Display_in_inches,Display_Refresh_Rate,Number_of_Rear_Camera,Number_of_Front_Camera,MP_of_Rear,MP_of_Front,Memory_Card_Supported_GB,OS_Category,OS_Version
+0,oneplus,54999,89.0,Yes, NFC,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,12,256,5000.0,Yes,6.7,120,3,1,50.0,16.0,1000,Android,13.0
+1,oneplus,19989,81.0,Yes, None,snapdragon,Snapdragon 695,Octa Core,2.2,6,128,5000.0,Yes,6.59,120,3,1,64.0,16.0,1000,Android,12.0
+2,samsung,16499,75.0,Yes, None,exynos,Exynos 1330,Octa Core,2.4,4,64,5000.0,Yes,6.6,90,3,1,50.0,13.0,1000,Android,13.0
+3,motorola,14999,81.0,Yes, None,snapdragon,Snapdragon  695,Octa Core,2.2,6,128,5000.0,Yes,6.55,120,3,1,50.0,16.0,1000,Android,12.0
+4,realme,24999,82.0,Yes, None,dimensity,Dimensity 1080,Octa Core,2.6,6,128,5000.0,Yes,6.7,120,3,1,108.0,16.0,1000,Android,13.0
+5,samsung,16999,80.0,Yes, NFC,snapdragon,Snapdragon  750G,Octa Core,2.2,6,128,5000.0,Yes,6.6,120,3,1,50.0,8.0,1000,Android,12.0
+6,apple,65999,81.0,Yes, NFC,bionic,Bionic A15,Hexa Core,3.22,6,128,3279.0,Yes,6.1,60,2,1,12.0,12.0,1000,iOS,16.0
+7,xiaomi,29999,86.0,Yes, IR Blaster,dimensity,Dimensity 1080,Octa Core,2.6,8,256,4980.0,Yes,6.67,120,3,1,200.0,16.0,1000,Android,12.0
+8,nothing,26749,85.0,Yes, NFC,snapdragon,Snapdragon 778G Plus,Octa Core,2.5,8,128,4500.0,Yes,6.55,120,2,1,50.0,16.0,1000,Android,12.0
+9,oneplus,28999,84.0,Yes, NFC,dimensity,Dimensity  1300,Octa Core,3.0,8,128,4500.0,Yes,6.43,90,3,1,50.0,32.0,1000,Android,12.0
+10,realme,18999,82.0,Yes, None,snapdragon,Snapdragon 695,Octa Core,2.2,6,128,5000.0,Yes,6.72,120,2,1,108.0,16.0,1000,Android,13.0
+11,oppo,18999,79.0,Yes, NFC,dimensity,Dimensity 700 5G,Octa Core,2.2,8,128,5000.0,Yes,6.56,90,2,1,50.0,8.0,1000,Android,12.0
+12,xiaomi,24762,79.0,Yes, IR Blaster,dimensity,Dimensity 1080,Octa Core,2.6,6,128,5000.0,Yes,6.67,120,3,1,50.0,16.0,1000,Android,12.0
+13,vivo,16990,80.0,Yes, None,snapdragon,Snapdragon  695,Octa Core,2.2,6,128,5000.0,Yes,6.58,120,3,1,50.0,16.0,1000,Android,12.0
+14,samsung,114990,79.5,Yes, NFC,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,8,256,5000.0,Yes,6.8,120,4,1,200.0,12.0,1000,Android,13.0
+15,apple,62999,79.0,Yes, NFC,bionic,Bionic A15,Hexa Core,3.22,4,128,3240.0,Yes,6.1,60,2,1,12.0,12.0,1000,iOS,15.0
+16,vivo,9999,65.0,No, None,helio,Helio P35,Octa Core,2.3,3,32,5000.0,Yes,6.51,60,2,1,13.0,5.0,1000,Android,12.0
+17,oppo,45999,86.0,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,16,256,4700.0,Yes,6.7,120,3,1,50.0,32.0,1000,Android,13.0
+18,oneplus,32999,86.0,Yes, NFC,dimensity,Dimensity 8100 Max,Octa Core,2.85,8,128,5000.0,Yes,6.7,120,3,1,50.0,16.0,1000,Android,12.0
+19,vivo,14499,72.0,No, None,helio,Helio G70,Octa Core,2.0,4,64,5000.0,Yes,6.55,60,2,1,50.0,8.0,1000,Android,12.0
+20,oneplus,39999,85.0,Yes, NFC,snapdragon,Snapdragon  8+ Gen1,Octa Core,3.2,8,128,5000.0,Yes,6.7,120,3,1,50.0,16.0,1000,Android,13.0
+21,vivo,35999,85.0,Yes, None,dimensity,Dimensity 1300,Octa Core,3.0,8,128,4830.0,Yes,6.56,120,3,1,64.0,32.0,1000,Android,12.0
+22,poco,14999,80.0,Yes, IR Blaster,snapdragon,Snapdragon 695,Octa Core,2.2,6,64,5000.0,Yes,6.67,120,3,1,64.0,16.0,1000,Android,11.0
+23,xiaomi,17859,76.0,Yes, IR Blaster,snapdragon,Snapdragon 4 Gen 1,Octa Core,2.0,4,128,5000.0,Yes,6.67,120,3,1,48.0,13.0,1000,Android,12.0
+24,vivo,42990,87.0,Yes, NFC,dimensity,Dimensity 9000 Plus,Octa Core,3.2,12,256,4800.0,Yes,6.7,120,3,1,64.0,32.0,1000,Android,13.0
+25,samsung,31239,88.0,Yes, NFC,snapdragon,Snapdragon 865,Octa Core,2.84,8,128,4500.0,Yes,6.5,120,3,1,12.0,32.0,1000,Android,10.0
+26,oneplus,21995,84.0,Yes, None,snapdragon,Snapdragon 695,Octa Core,2.2,8,128,5000.0,Yes,6.59,120,3,1,64.0,16.0,1000,Android,12.0
+27,apple,129990,76.0,Yes, NFC,bionic,Bionic  A16,Hexa Core,2.432792990142388,6,128,4323.0,Yes,6.7,120,3,1,48.0,12.0,1000,iOS,16.0
+28,vivo,27999,83.0,Yes, None,dimensity,Dimensity  900,Octa Core,2.0,8,128,4500.0,Yes,6.44,90,3,1,64.0,50.0,1000,Android,12.0
+29,oneplus,69999,83.5,Yes, NFC,snapdragon,Snapdragon  8 Gen2,Octa Core,3.2,8,128,4500.0,Yes,6.7,120,3,1,50.0,16.0,1000,Android,13.0
+30,realme,19999,84.0,Yes, None,snapdragon,Snapdragon 695,Octa Core,2.2,8,128,5000.0,Yes,6.72,120,2,1,108.0,16.0,1000,Android,13.0
+31,poco,20999,81.0,Yes, IR Blaster,snapdragon,Snapdragon 778G,Octa Core,2.4,6,128,5000.0,Yes,6.67,120,3,1,108.0,16.0,1000,Android,13.0
+32,vivo,27990,83.0,Yes, None,dimensity,Dimensity  930,Octa Core,2.2,8,256,4700.0,Yes,6.56,120,3,1,64.0,50.0,1000,Android,13.0
+33,apple,38999,73.0,No, NFC,a13,A13 Bionic,Hexa Core,2.65,4,64,3110.0,No,6.1,60,2,1,12.0,12.0,1000,iOS,13.0
+34,samsung,23790,85.0,Yes, None,dimensity,Dimensity  900 5G,Octa Core,2.4,6,128,5000.0,Yes,6.7,120,4,1,108.0,32.0,1000,Android,12.0
+35,samsung,39999,87.0,Yes, NFC,exynos,Exynos  2100,Octa Core,2.9,8,128,4500.0,Yes,6.4,120,3,1,12.0,32.0,1000,Android,11.0
+36,oppo,29990,87.0,Yes, NFC,snapdragon,Snapdragon  695,Octa Core,2.2,8,256,5000.0,Yes,6.67,120,3,1,108.0,16.0,1000,Android,13.0
+37,samsung,91999,85.0,Yes, NFC,snapdragon,Snapdragon  8 Gen1,Octa Core,3.0,12,256,5000.0,Yes,6.8,120,4,1,108.0,40.0,1000,Android,12.0
+38,xiaomi,32999,83.0,Yes, IR Blaster,snapdragon,Snapdragon  7 Gen1,Octa Core,2.36,6,128,5200.0,Yes,6.67,120,4,1,108.0,32.0,512,Android,12.0
+39,oppo,28499,83.0,Yes, NFC,snapdragon,Snapdragon 778G,Octa Core,2.4,8,256,4500.0,Yes,6.7,120,2,1,64.0,32.0,1000,Android,13.0
+40,oneplus,21999,83.0,Yes, NFC,snapdragon,Snapdragon  695,Octa Core,2.2,6,128,5000.0,Yes,6.7,120,3,1,108.0,16.0,1000,Android,12.0
+41,xiaomi,19999,83.0,Yes, IR Blaster,Snapdragon,Snapdragon  695,Octa Core,2.2,6,128,5000.0,Yes,6.67,120,3,1,108.0,16.0,1000,Android,11.0
+42,motorola,18999,87.0,Yes, NFC,dimensity,Dimensity 800U,Octa Core,2.4,6,128,5000.0,Yes,6.67,90,3,1,108.0,32.0,1000,Android,11.0
+43,realme,27999,85.0,Yes, None,dimensity,Dimensity 1080,Octa Core,2.6,8,256,5000.0,Yes,6.7,120,3,1,108.0,16.0,1000,Android,13.0
+44,vivo,18499,80.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,8,128,5000.0,Yes,6.58,90,3,1,50.0,16.0,1000,Android,12.0
+45,samsung,17478,81.0,Yes, NFC,exynos,Exynos  1280,Octa Core,2.4,6,128,6000.0,Yes,6.6,120,4,1,50.0,8.0,1000,Android,12.0
+46,xiaomi,11936,76.0,No, IR Blaster,snapdragon,Snapdragon  680,Octa Core,2.4,4,64,5000.0,Yes,6.43,90,4,1,50.0,13.0,512,Android,11.0
+47,realme,8950,64.0,No, None,unisoc,Unisoc T612,Octa Core,1.8,3,32,5000.0,No,6.5,60,2,1,50.0,5.0,1000,Android,12.0
+48,vivo,12489,68.0,No, None,helio,Helio P35,Octa Core,2.3,4,64,5000.0,Yes,6.51,60,2,1,13.0,5.0,1000,Android,12.0
+49,samsung,42999,73.5,Yes, NFC,snapdragon,Snapdragon 7 Gen1,Octa Core,2.36,8,128,5000.0,Yes,6.7,120,4,1,108.0,32.0,1000,Android,12.0
+50,samsung,18999,79.0,Yes, None,exynos,Exynos 1330,Octa Core,2.4,6,128,5000.0,Yes,6.6,90,3,1,50.0,13.0,1000,Android,13.0
+51,iqoo,29999,82.0,Yes, IR Blaster,dimensity,Dimensity 8200,Octa Core,3.1,8,128,5000.0,Yes,6.78,120,3,1,64.0,16.0,1000,Android,13.0
+52,jio,11990,64.0,Yes, None,snapdragon,Snapdragon 480+,Octa Core,2.2,4,32,5000.0,Yes,6.5,90,1,1,13.0,8.0,512,Android,12.0
+53,motorola,18999,83.0,Yes, NFC,snapdragon,Snapdragon 695,Octa Core,2.2,6,128,5000.0,Yes,6.6,120,3,1,50.0,16.0,1000,Android,12.0
+54,realme,13999,74.0,No, None,helio,Helio G99,Octa Core,2.2,4,64,5000.0,Yes,6.4,90,2,1,50.0,16.0,1000,Android,12.0
+55,realme,14965,75.0,Yes, None,dimensity,Dimensity 810 5G,Octa Core,2.4,4,64,5000.0,Yes,6.6,90,3,1,50.0,8.0,1000,Android,12.0
+56,apple,74999,82.0,Yes, NFC,bionic,Bionic A15,Hexa Core,3.22,6,128,4325.0,Yes,6.7,60,2,1,12.0,12.0,1000,iOS,16.0
+57,xiaomi,10999,78.0,No, IR Blaster,helio,Helio G95,Octa Core,2.05,6,64,5000.0,Yes,6.43,60,4,1,64.0,13.0,512,Android,11.0
+58,samsung,84990,89.0,Yes, NFC,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,8,256,4700.0,Yes,6.6,120,3,1,50.0,12.0,1000,Android,13.0
+59,motorola,10499,75.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,4,64,5000.0,Yes,6.55,90,3,1,50.0,16.0,1000,Android,12.0
+60,xiaomi,17990,78.0,Yes, IR Blaster,dimensity,Dimensity 720,Octa Core,2.0,6,128,5000.0,Yes,6.67,120,3,1,108.0,16.0,1000,Android,12.0
+61,vivo,29990,85.0,Yes, NFC,snapdragon,Snapdragon 870,Octa Core,3.2,8,128,4600.0,Yes,6.78,120,3,1,64.0,50.0,1000,Android,13.0
+62,samsung,18499,79.0,No, None,snapdragon,Snapdragon  680,Octa Core,2.4,6,128,5000.0,Yes,6.6,60,4,1,50.0,8.0,1000,Android,12.0
+63,vivo,16499,75.0,No, None,helio,Helio G70,Octa Core,2.0,6,128,5000.0,Yes,6.55,60,2,1,50.0,8.0,1000,Android,12.0
+64,poco,14999,81.0,Yes, IR Blaster,dimensity,Dimensity  810 5G,Octa Core,2.4,6,128,5000.0,Yes,6.6,90,2,1,50.0,16.0,1000,Android,11.0
+65,vivo,35499,86.0,Yes, NFC,dimensity,Dimensity 8200,Octa Core,3.1,8,256,4600.0,Yes,6.78,120,3,1,50.0,50.0,1000,Android,13.0
+66,oneplus,60999,89.0,Yes, NFC,snapdragon,Snapdragon  8 Gen1,Octa Core,3.0,8,128,5000.0,Yes,6.7,120,3,1,50.0,32.0,1000,Android,12.0
+67,xiaomi,32999,87.0,Yes, IR Blaster,dimensity,Dimensity 1080,Octa Core,2.6,12,256,4980.0,Yes,6.67,120,3,1,200.0,16.0,1000,Android,12.0
+68,samsung,15999,78.0,Yes, NFC,snapdragon,Snapdragon  750G,Octa Core,2.2,4,128,5000.0,Yes,6.6,120,3,1,50.0,8.0,1000,Android,12.0
+69,oppo,99990,70.0,Yes, NFC,snapdragon,Snapdragon  8+ Gen1,Octa Core,3.2,8,256,5000.0,Yes,7.1,120,3,1,64.0,32.0,1000,Android,12.0
+70,oppo,9499,62.0,No, None,helio,Helio G35,Octa Core,2.3,3,64,5000.0,No,6.56,60,1,1,8.0,5.0,1000,Android,12.0
+71,vivo,27994,86.0,Yes, None,dimensity,Dimensity  920 5G,Octa Core,2.5,12,256,4200.0,Yes,6.44,90,3,2,64.0,50.0,1000,Android,12.0
+72,iqoo,13989,75.0,Yes, None,snapdragon,Snapdragon  4 Gen 1,Octa Core,2.0,4,64,5000.0,Yes,6.58,120,2,1,50.0,8.0,1000,Android,12.0
+73,oneplus,44999,85.0,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,4800.0,Yes,6.7,120,3,1,50.0,16.0,1000,Android,12.0
+74,xiaomi,13999,79.0,Yes, IR Blaster,dimensity,Dimensity 700,Octa Core,2.2,6,128,5000.0,Yes,6.5,90,3,1,48.0,8.0,1000,Android,11.0
+75,gionee,6190,81.0,No, None,tiger,Tiger  T310,Quad Core,2.0,4,32,3500.0,No,6.26,60,2,1,13.0,5.0,1000,HarmonyOS,2.0
+76,apple,119900,83.0,Yes, NFC,bionic,Bionic A15,Hexa Core,3.22,6,128,3095.0,Yes,6.1,120,3,1,12.0,12.0,1000,iOS,15.0
+77,oppo,27660,83.0,Yes, None,snapdragon,Snapdragon 6 Gen 1,Octa Core,2.2,8,128,4800.0,Yes,6.58,120,3,1,64.0,32.0,1000,Android,13.0
+78,samsung,24999,75.0,Yes, NFC,exynos,Exynos 1280,Octa Core,2.432792990142388,6,128,5000.0,Yes,6.5,90,4,1,48.0,13.0,1000,Android,12.0
+79,xiaomi,8388,66.0,No, None,helio,Helio  G25,Octa Core,2.0,4,64,5000.0,No,6.53,60,1,1,13.0,5.0,512,Android,11.0
+80,motorola,15999,83.0,No, NFC,helio,Helio  G99,Octa Core,2.2,6,128,5000.0,Yes,6.55,120,3,1,108.0,16.0,1000,Android,12.0
+81,samsung,20999,82.0,Yes, None,exynos,Exynos 1330,Octa Core,2.4,8,128,5000.0,Yes,6.6,90,3,1,50.0,13.0,1000,Android,13.0
+82,realme,13999,75.0,Yes, None,dimensity,Dimensity  810 5G,Octa Core,2.4,4,64,5000.0,Yes,6.5,90,3,1,48.0,16.0,1000,Android,11.0
+83,vivo,19990,83.0,Yes, None,snapdragon,Snapdragon  695,Octa Core,2.2,8,128,5000.0,Yes,6.58,120,3,1,50.0,16.0,1000,Android,12.0
+84,samsung,13999,75.0,Yes, None,dimensity,Dimensity 700,Octa Core,2.2,6,128,5000.0,Yes,6.5,90,2,1,50.0,5.0,1000,Android,12.0
+85,motorola,22999,83.0,Yes, NFC,snapdragon,Snapdragon 778G+,Octa Core,2.5,6,128,4020.0,Yes,6.5,144,3,1,50.0,32.0,1000,Android,12.0
+86,samsung,22999,79.0,Yes, None,snapdragon,Snapdragon 695,Octa Core,2.2,6,128,5000.0,Yes,6.6,120,4,1,50.0,8.0,1000,Android,12.0
+87,oppo,16999,79.0,Yes, None,dimensity,Dimensity  810 5G,Octa Core,2.4,8,128,5000.0,Yes,6.56,90,2,1,48.0,8.0,1000,Android,12.0
+88,xiaomi,14290,80.0,No, IR Blaster,snapdragon,Snapdragon  680,Octa Core,2.4,6,128,5000.0,Yes,6.43,90,4,1,50.0,13.0,512,Android,11.0
+89,samsung,41999,74.5,Yes, NFC,snapdragon,Snapdragon 778G,Octa Core,2.4,8,128,5000.0,Yes,6.7,120,4,1,108.0,32.0,1000,Android,12.0
+90,vivo,13489,69.0,No, None,helio,Helio P35,Octa Core,2.3,4,64,5000.0,Yes,6.51,60,2,1,13.0,8.0,1000,Android,11.0
+91,oneplus,22990,83.0,Yes, NFC,dimensity,Dimensity 8100 Max,Octa Core,2.85,8,128,5000.0,Yes,6.59,120,3,1,64.0,16.0,1000,Android,12.0
+92,motorola,16499,84.0,Yes, None,snapdragon,Snapdragon  695,Octa Core,2.2,8,128,5000.0,Yes,6.55,120,3,1,50.0,16.0,1000,Android,12.0
+93,vivo,73999,75.5,Yes, IR Blaster,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,12,256,4700.0,Yes,6.78,120,4,1,50.3,32.0,1000,Android,13.0
+94,realme,9999,67.0,No, None,unisoc,Unisoc T612,Octa Core,1.8,4,64,5000.0,No,6.5,60,2,1,50.0,5.0,1000,Android,12.0
+95,realme,12499,75.0,No, None,snapdragon,Snapdragon  680,Octa Core,2.4,4,64,5000.0,Yes,6.6,90,3,1,50.0,16.0,1000,Android,11.0
+96,oppo,12499,72.0,No, None,helio,Helio G35,Octa Core,2.3,4,64,5000.0,Yes,6.56,60,2,1,50.0,5.0,1000,Android,12.0
+97,iqoo,59999,88.0,Yes, NFC,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,8,256,5000.0,Yes,6.78,144,3,1,50.0,16.0,1000,Android,13.0
+98,vivo,106990,83.0,Yes, NFC,snapdragon,Snapdragon 8 Gen1,Octa Core,3.0,12,256,4600.0,Yes,8.03,120,4,1,50.0,16.0,1000,Android,12.0
+99,vivo,15990,78.0,Yes, None,snapdragon,Snapdragon  695,Octa Core,2.2,4,128,5000.0,Yes,6.58,120,3,1,50.0,16.0,1000,Android,12.0
+100,apple,119990,75.0,Yes, NFC,bionic,Bionic  A16,Hexa Core,2.432792990142388,6,128,3200.0,Yes,6.1,120,3,1,48.0,12.0,1000,iOS,16.0
+101,xiaomi,19999,83.0,Yes, IR Blaster,snapdragon,Snapdragon 778G,Octa Core,2.4,6,128,5200.0,Yes,6.67,120,4,1,108.0,32.0,512,Android,11.0
+102,motorola,23990,83.0,Yes, None,snapdragon,Snapdragon 888+,Octa Core,2.9,8,128,4400.0,Yes,6.55,144,3,1,50.0,32.0,1000,Android,12.0
+103,realme,12999,80.0,Yes, None,dimensity,Dimensity 810 5G,Octa Core,2.4,8,128,5000.0,Yes,6.6,90,2,1,50.0,8.0,1000,Android,12.0
+104,oppo,19990,82.0,Yes, None,dimensity,Dimensity 800U,Octa Core,2.4,8,128,4310.0,Yes,6.43,60,4,1,48.0,16.0,256,Android,11.0
+105,xiaomi,58990,84.5,Yes, IR Blaster,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,8,128,4820.0,Yes,6.73,120,3,1,50.3,32.0,1000,Android,13.0
+106,vivo,43999,87.0,Yes, None,dimensity,Dimensity 9000 Plus,Octa Core,3.2,12,256,5000.0,Yes,6.73,144,3,1,108.0,32.0,1000,Android,13.0
+107,samsung,49999,86.0,Yes, NFC,snapdragon,Snapdragon  8 Gen1,Octa Core,3.0,8,128,3700.0,Yes,6.1,120,3,1,50.0,10.0,1000,Android,12.0
+108,vivo,15999,79.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,6,128,5000.0,Yes,6.44,60,3,1,50.0,16.0,1000,Android,12.0
+109,oneplus,36999,87.0,Yes, NFC,dimensity,Dimensity 8100 Max,Octa Core,2.85,12,256,5000.0,Yes,6.7,120,3,1,50.0,16.0,1000,Android,12.0
+110,tecno,39999,85.0,Yes, NFC,dimensity,Dimensity 9000,Octa Core,3.05,8,256,5160.0,Yes,6.8,120,3,1,64.0,32.0,1000,Android,12.0
+111,apple,51999,74.0,Yes, NFC,bionic,Bionic A14,Hexa Core,3.1,4,64,4755.525933609959,No,6.1,60,2,1,12.0,12.0,1000,iOS,14.0
+112,xiaomi,22999,82.0,Yes, IR Blaster,dimensity,Dimensity  8100,Octa Core,2.85,6,128,5080.0,Yes,6.6,144,3,1,64.0,16.0,1000,Android,12.0
+113,samsung,31999,87.0,Yes, NFC,exynos,Exynos 1280,Octa Core,2.4,6,128,5000.0,Yes,6.5,120,4,1,64.0,32.0,1000,Android,12.0
+114,xiaomi,6171,85.0,No, None,helio,Helio A22,Quad Core,2.0,2,32,5000.0,Yes,6.52,60,2,1,8.0,5.0,512,Android,12.0
+115,oppo,29340,83.0,Yes, NFC,dimensity,Dimensity 1300,Octa Core,3.0,8,128,4500.0,Yes,6.43,90,3,1,50.0,32.0,1000,Android,12.0
+116,samsung,25289,87.0,Yes, None,dimensity,Dimensity  900 5G,Octa Core,2.4,8,128,5000.0,Yes,6.7,120,4,1,108.0,32.0,1000,Android,12.0
+117,iqoo,21788,78.0,Yes, None,snapdragon,Snapdragon  778G,Octa Core,2.4,6,128,4700.0,Yes,6.44,90,3,1,64.0,16.0,1000,Android,12.0
+118,tesla,69999,83.0,Yes, NFC,octa,Exynos,Octa Core,2.432792990142388,16,512,5000.0,Yes,6.73,165,3,1,50.0,32.0,1000,Android,13.0
+119,samsung,70990,88.0,Yes, NFC,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,8,128,3900.0,Yes,6.1,120,3,1,50.0,12.0,1000,Android,13.0
+120,motorola,34999,89.0,Yes, NFC,snapdragon,Snapdragon 8 Gen1,Octa Core,3.0,8,128,4800.0,Yes,6.7,144,3,1,50.0,60.0,1000,Android,12.0
+121,oneplus,33900,85.0,Yes, NFC,dimensity,Dimensity  1300,Octa Core,3.0,12,256,4500.0,Yes,6.43,90,3,1,50.0,32.0,1000,Android,12.0
+122,google,29999,71.0,Yes, NFC,google,Google  Tensor,Octa Core,2.432792990142388,6,128,4410.0,Yes,6.14,60,2,1,12.2,8.0,1000,Android,12.0
+123,infinix,18999,84.0,Yes, None,dimensity,Dimensity 810 5G,Octa Core,2.4,8,128,5000.0,Yes,6.7,60,3,1,108.0,16.0,2000,Android,12.0
+124,samsung,19499,84.0,Yes, NFC,exynos,Exynos  1280,Octa Core,2.4,8,128,6000.0,Yes,6.6,120,4,1,50.0,8.0,1000,Android,12.0
+125,vivo,24994,83.0,Yes, None,dimensity,Dimensity  920 5G,Octa Core,2.5,8,128,4200.0,Yes,6.44,90,3,2,64.0,50.0,1000,Android,12.0
+126,motorola,10999,78.0,No, NFC,snapdragon,Snapdragon 680,Octa Core,2.4,4,64,5000.0,Yes,6.47,60,3,1,50.0,16.0,1000,Android,12.0
+127,oneplus,24999,85.0,Yes, None,snapdragon,Snapdragon 695,Octa Core,2.2,8,256,5000.0,Yes,6.59,120,3,1,64.0,16.0,1000,Android,12.0
+128,samsung,25999,82.0,Yes, NFC,exynos,Exynos  1280,Octa Core,2.4,6,128,5000.0,Yes,6.4,90,4,1,48.0,13.0,1000,Android,12.0
+129,google,34990,69.0,Yes, NFC,google,Google  Tensor,Octa Core,2.432792990142388,6,128,4410.0,Yes,6.1,90,2,1,12.2,8.0,1000,Android,12.0
+130,xiaomi,13466,74.0,Yes, IR Blaster,dimensity,Dimensity 700 5G,Octa Core,2.2,4,64,5000.0,Yes,6.58,90,2,1,50.0,5.0,512,Android,12.0
+131,xiaomi,9999,76.0,No, IR Blaster,snapdragon,Snapdragon 720G,Octa Core,2.3,4,64,5020.0,Yes,6.67,60,4,1,48.0,16.0,512,Android,10.0
+132,motorola,7999,71.0,No, None,tiger,Tiger T700,Octa Core,1.8,4,64,5000.0,No,6.5,90,3,1,48.0,8.0,1000,Android,11.0
+133,nothing,28249,86.0,Yes, NFC,snapdragon,Snapdragon 778G Plus,Octa Core,2.5,8,256,4500.0,Yes,6.55,120,2,1,50.0,16.0,1000,Android,12.0
+134,poco,16499,82.0,Yes, IR Blaster,snapdragon,Snapdragon 695,Octa Core,2.2,6,128,5000.0,Yes,6.67,120,3,1,64.0,16.0,1000,Android,11.0
+135,xiaomi,22999,87.0,Yes, IR Blaster,Snapdragon,Snapdragon  695,Octa Core,2.2,8,256,5000.0,Yes,6.67,120,3,1,108.0,16.0,1000,Android,11.0
+136,apple,46999,75.0,No, NFC,a13,A13 Bionic,Hexa Core,2.65,4,128,3110.0,No,6.1,60,2,1,12.0,12.0,1000,iOS,13.0
+137,realme,13999,74.0,No, None,tiger,Tiger  T616,Octa Core,1.8,6,128,5000.0,Yes,6.6,90,3,1,50.0,8.0,1000,Android,11.0
+138,oppo,13490,78.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,6,128,5000.0,Yes,6.59,90,3,1,50.0,16.0,1000,Android,11.0
+139,iqoo,28999,82.0,Yes, IR Blaster,snapdragon,Snapdragon 870,Octa Core,3.2,8,128,4700.0,Yes,6.62,120,3,1,64.0,16.0,1000,Android,12.0
+140,iqoo,15499,78.0,Yes, None,snapdragon,Snapdragon  695,Octa Core,2.2,4,128,5000.0,Yes,6.58,120,3,1,50.0,16.0,1000,Android,12.0
+141,oppo,39999,86.0,Yes, NFC,dimensity,Dimensity 8100 Max,Octa Core,2.85,16,256,4500.0,Yes,6.7,120,2,1,50.0,32.0,1000,Android,13.0
+142,poco,12999,76.0,Yes, IR Blaster,dimensity,Dimensity  810 5G,Octa Core,2.4,4,64,5000.0,Yes,6.6,90,2,1,50.0,16.0,1000,Android,11.0
+143,oneplus,14999,69.0,No, None,snapdragon,Snapdragon 460,Octa Core,1.8,4,64,6000.0,Yes,6.52,60,3,1,13.0,8.0,1000,Android,10.0
+144,samsung,8499,68.0,No, None,helio,Helio P35,Octa Core,2.3,4,64,5000.0,Yes,6.5,60,2,1,13.0,5.0,1000,Android,12.0
+145,iqoo,24990,83.0,Yes, NFC,snapdragon,Snapdragon 870,Octa Core,3.2,8,128,4400.0,Yes,6.62,120,3,1,48.0,16.0,1000,Android,11.0
+146,samsung,16999,84.0,Yes, NFC,exynos,Exynos 1200,Octa Core,2.4,6,128,6000.0,Yes,6.5,120,4,1,64.0,32.0,1000,Android,12.0
+147,xiaomi,9589,71.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,4,64,6000.0,Yes,6.7,60,2,1,50.0,5.0,512,Android,11.0
+148,apple,40999,74.0,Yes, NFC,bionic,Bionic A14,Hexa Core,3.1,4,64,4755.525933609959,No,5.4,60,2,1,12.0,12.0,1000,iOS,14.0
+149,xiaomi,19988,79.0,Yes, IR Blaster,snapdragon,Snapdragon 4 Gen 1,Octa Core,2.0,6,128,5000.0,Yes,6.67,120,3,1,48.0,13.0,1000,Android,12.0
+150,motorola,11999,75.0,No, NFC,snapdragon,Snapdragon 680,Octa Core,2.4,4,64,5000.0,Yes,6.6,90,3,1,50.0,16.0,1000,Android,12.0
+151,apple,142990,79.0,Yes, NFC,bionic,Bionic  A16,Hexa Core,2.432792990142388,8,256,4352.0,Yes,6.68,120,3,1,50.0,12.0,1000,iOS,15.0
+152,oppo,30990,87.0,Yes, NFC,snapdragon,Snapdragon 8 Gen1,Octa Core,3.0,8,128,5000.0,Yes,6.7,120,2,1,108.0,16.0,1000,Android,12.0
+153,infinix,19499,85.0,Yes, None,dimensity,Dimensity 1080,Octa Core,2.6,8,256,5000.0,Yes,6.78,120,3,1,50.0,16.0,256,Android,12.0
+154,nokia,4990,84.0,No, None,snapdragon,Snapdragon QM215,Quad Core,1.3,4,512,1450.0,No,2.7,60,1,1,5.0,16.55840248962656,32,Android,12.0
+155,realme,5299,83.0,No, None,tiger,Tiger T612,Octa Core,1.82,2,32,5000.0,No,6.5,60,1,1,8.0,5.0,1000,Android,11.0
+156,oppo,25969,82.0,Yes, None,Snapdragon,Snapdragon 695,Octa Core,2.2,8,128,4500.0,Yes,6.43,60,3,1,64.0,16.0,1000,Android,12.0
+157,realme,28999,82.0,Yes, None,snapdragon,Snapdragon  8 Gen1,Octa Core,3.0,6,128,5000.0,Yes,6.4,120,3,1,64.0,32.0,256,Android,12.0
+158,oppo,94990,81.5,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,12,256,4520.0,Yes,7.1,120,3,2,50.0,32.0,1000,Android,12.0
+159,realme,14999,81.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,6,128,5000.0,Yes,6.4,90,3,1,108.0,16.0,256,Android,12.0
+160,cola,14999,74.0,No, None,helio,Helio G99,Octa Core,2.2,4,64,5000.0,Yes,6.4,90,2,1,50.0,16.0,1000,Android,12.0
+161,apple,129900,84.0,Yes, NFC,bionic,Bionic A15,Hexa Core,3.22,6,128,4352.0,Yes,6.7,120,3,1,12.0,12.0,1000,iOS,15.0
+162,oppo,58990,88.0,Yes, NFC,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,12,256,4700.0,Yes,6.73,120,4,1,64.0,32.0,1000,Android,13.0
+163,vivo,41990,88.0,Yes, IR Blaster,dimensity,Dimensity 9200,Octa Core,3.05,8,128,4810.0,Yes,6.78,120,3,1,50.0,32.0,1000,Android,13.0
+164,samsung,10999,74.0,No, NFC,exynos,Exynos 850,Octa Core,2.0,4,64,6000.0,Yes,6.6,60,3,1,50.0,8.0,1000,Android,12.0
+165,xiaomi,11999,79.0,No, IR Blaster,helio,Helio G95,Octa Core,2.05,6,128,5000.0,Yes,6.43,60,4,1,64.0,13.0,512,Android,11.0
+166,realme,16999,79.0,No, None,helio,Helio G99,Octa Core,2.2,8,128,5000.0,Yes,6.4,90,2,1,50.0,16.0,1000,Android,12.0
+167,iqoo,30990,83.0,Yes, NFC,snapdragon,Snapdragon  888,Octa Core,2.84,8,128,4500.0,Yes,6.62,120,3,1,48.0,16.0,1000,Android,12.0
+168,infinix,17999,75.0,Yes, None,dimensity,Dimensity 810,Octa Core,2.4,4,64,5000.0,Yes,6.6,120,2,1,50.0,8.0,1000,Android,12.0
+169,letv,5499,79.0,No, None,tiger,Tiger T310,Quad Core,2.0,4,32,4000.0,No,6.54,60,2,1,8.0,5.0,1000,Android,11.0
+170,xiaomi,20499,83.0,Yes, IR Blaster,snapdragon,Snapdragon  7 Gen1,Octa Core,2.36,6,128,5200.0,Yes,6.67,120,4,1,108.0,32.0,512,Android,12.0
+171,realme,20490,81.0,Yes, None,dimensity,Dimensity  920 5G,Octa Core,2.5,6,128,5000.0,Yes,6.4,90,3,1,48.0,16.0,256,Android,12.0
+172,oppo,15490,77.0,Yes, None,snapdragon,Snapdragon  480,Octa Core,2.0,6,128,5000.0,Yes,6.5,90,3,1,48.0,8.0,1000,Android,11.0
+173,apple,29990,61.0,No, NFC,a13,A13 Bionic,Hexa Core,2.65,3,64,2050.0,Yes,4.7,60,1,1,12.0,7.0,1000,iOS,13.0
+174,iqoo,15499,79.0,Yes, None,snapdragon,Snapdragon  4 Gen 1,Octa Core,2.0,6,128,5000.0,Yes,6.58,120,2,1,50.0,8.0,1000,Android,12.0
+175,xiaomi,11999,80.0,No, IR Blaster,helio,Helio G95,Octa Core,2.05,6,64,5000.0,Yes,6.43,60,4,1,64.0,13.0,512,Android,11.0
+176,realme,10999,74.0,No, None,helio,Helio G96,Octa Core,2.0,4,64,5000.0,Yes,6.6,120,3,1,50.0,16.0,256,Android,11.0
+177,vivo,21990,82.0,Yes, None,dimensity,Dimensity  700 5G,Octa Core,2.2,8,128,5000.0,Yes,6.58,60,3,1,50.0,16.0,1000,Android,12.0
+178,vivo,31999,85.0,Yes, None,dimensity,Dimensity  900,Octa Core,2.0,12,256,4500.0,Yes,6.44,90,3,1,64.0,50.0,1000,Android,12.0
+179,poco,11999,77.0,No, IR Blaster,helio,Helio G96,Octa Core,2.05,6,64,5000.0,Yes,6.43,90,3,1,64.0,16.0,1000,Android,11.0
+180,infinix,36999,89.0,Yes, None,dimensity,Dimensity 920 5G,Octa Core,2.5,8,256,4500.0,Yes,6.8,120,3,1,200.0,32.0,1000,Android,12.0
+181,tecno,6999,62.0,No, None,helio,Helio A22,Quad Core,2.0,3,32,5000.0,Yes,6.56,60,2,1,13.0,5.0,256,Android,12.0
+182,motorola,39999,89.0,Yes, NFC,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,8,128,4600.0,Yes,6.7,165,3,1,50.0,60.0,1000,Android,13.0
+183,samsung,14999,78.0,Yes, NFC,snapdragon,Snapdragon  695,Octa Core,2.2,4,128,5000.0,Yes,6.6,120,3,1,50.0,8.0,1000,Android,12.0
+184,realme,14499,79.0,Yes, None,dimensity,Dimensity  700 5G,Octa Core,2.2,8,128,5000.0,Yes,6.6,90,3,1,50.0,8.0,1000,Android,12.0
+185,oneplus,27999,84.0,Yes, NFC,dimensity,Dimensity  8200,Octa Core,3.1,8,128,4200.0,Yes,6.43,90,3,1,50.0,32.0,1000,Android,11.0
+186,motorola,20499,86.0,Yes, NFC,snapdragon,Snapdragon 695,Octa Core,2.2,8,128,5000.0,Yes,6.6,120,3,1,50.0,16.0,1000,Android,12.0
+187,leeco,10999,65.0,No, None,tiger,Tiger T7150,Quad Core,1.8,8,128,5000.0,Yes,6.5,60,2,1,13.0,5.0,1000,Android,11.0
+188,realme,3499,63.0,No, None,helio,Helio  P22,Octa Core,2.0,3,32,4000.0,No,6.1,60,2,1,13.0,5.0,128,Android,9.0
+189,duoqin,9990,74.0,No, None,helio,Helio  G85,Octa Core,2.0,4,64,2150.0,No,3.54,60,1,1,8.0,2.0,1000,Android,12.0
+190,samsung,34999,85.0,Yes, None,snapdragon,Snapdragon 888,Octa Core,2.84,6,128,6000.0,Yes,6.67,90,3,1,64.0,32.0,1000,Android,12.0
+191,nokia,46999,86.5,Yes, None,snapdragon,Snapdragon  8 Gen1,Octa Core,3.0,12,256,6000.0,Yes,6.9,120,1,1,200.0,32.0,1000,Android,12.1
+192,motorola,39999,88.0,Yes, NFC,snapdragon,Snapdragon 888+,Octa Core,2.9,8,128,4400.0,Yes,6.55,144,3,1,50.0,32.0,1000,Android,12.0
+193,realme,11828,70.0,No, None,tiger,Tiger  T616,Octa Core,1.8,4,64,5000.0,Yes,6.6,60,3,1,50.0,8.0,1000,Android,11.0
+194,oppo,45999,86.0,Yes, NFC,dimensity,Dimensity 8100-Max,Octa Core,2.85,12,256,4500.0,Yes,6.7,120,3,1,50.0,32.0,1000,Android,12.0
+195,oneplus,18999,81.0,Yes, None,snapdragon,Snapdragon 695,Octa Core,2.2,6,128,5000.0,Yes,6.59,120,3,1,50.0,16.0,1000,Android,12.0
+196,poco,17999,84.0,Yes, IR Blaster,snapdragon,Snapdragon 695,Octa Core,2.2,8,128,5000.0,Yes,6.67,120,3,1,64.0,16.0,1000,Android,11.0
+197,samsung,8499,66.0,No, None,helio,Helio P35,Octa Core,2.3,4,64,5000.0,Yes,6.5,60,2,1,13.0,5.0,1000,Android,12.0
+198,oppo,17999,76.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,8,128,5000.0,Yes,6.56,90,2,1,50.0,8.0,1000,Android,12.0
+199,samsung,14450,75.0,No, None,octa,Exynos,Octa Core,2.432792990142388,4,64,5000.0,Yes,6.6,60,4,1,50.0,8.0,1000,Android,12.0
+200,motorola,54999,76.33333333333333,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,4610.0,Yes,6.67,144,3,1,200.0,60.0,1000,Android,12.0
+201,xiaomi,71999,77.66666666666667,Yes, IR Blaster,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,12,256,5000.0,Yes,6.6,120,4,1,108.0,32.0,1000,Android,12.0
+202,motorola,12999,79.0,No, NFC,snapdragon,Snapdragon 680,Octa Core,2.4,6,128,5000.0,Yes,6.6,90,3,1,50.0,16.0,1000,Android,12.0
+203,poco,11499,75.0,Yes, IR Blaster,dimensity,Dimensity 700 5G,Octa Core,2.2,4,64,5000.0,Yes,6.58,90,2,1,50.0,8.0,512,Android,12.0
+204,nothing,35999,87.0,Yes, NFC,snapdragon,Snapdragon 778G Plus,Octa Core,2.5,12,256,4500.0,Yes,6.55,120,2,1,50.0,16.0,1000,Android,12.0
+205,samsung,34999,76.0,Yes, NFC,exynos,Exynos 1380,Octa Core,2.432792990142388,6,128,5000.0,Yes,6.4,120,3,1,50.0,32.0,1000,Android,13.0
+206,tecno,11999,73.0,No, None,helio,Helio G99,Octa Core,2.2,8,128,6000.0,Yes,6.82,90,2,1,50.0,8.0,512,Android,12.0
+207,xiaomi,27994,82.0,Yes, IR Blaster,dimensity,Dimensity 1080,Octa Core,2.6,8,256,5000.0,Yes,6.67,120,3,1,50.0,16.0,1000,Android,12.0
+208,apple,139990,77.0,Yes, NFC,bionic,Bionic  A16,Hexa Core,2.432792990142388,6,256,4323.0,Yes,6.7,120,3,1,48.0,12.0,1000,iOS,16.0
+209,vivo,39999,86.0,Yes, None,dimensity,Dimensity 1300,Octa Core,3.0,12,256,4830.0,Yes,6.56,120,3,1,64.0,32.0,1000,Android,12.0
+210,realme,15499,79.0,Yes, None,dimensity,Dimensity  810 5G,Octa Core,2.4,6,128,5000.0,Yes,6.5,90,3,1,48.0,16.0,1000,Android,11.0
+211,realme,18999,80.0,Yes, None,snapdragon,Snapdragon  695,Octa Core,2.2,6,128,5000.0,Yes,6.6,120,3,1,64.0,16.0,256,Android,12.0
+212,lava,10999,73.0,Yes, None,dimensity,Dimensity 700 5G,Octa Core,2.2,4,128,5000.0,No,6.5,90,3,1,50.0,8.0,1000,Android,12.0
+213,honor,27999,81.0,Yes, IR Blaster,snapdragon,Snapdragon 695,Octa Core,2.2,8,256,5100.0,Yes,6.67,120,3,1,64.0,16.0,1000,Android,12.0
+214,google,81999,77.5,Yes, NFC,google,Google  Tensor G2,Octa Core,2.85,12,128,5000.0,Yes,6.7,120,3,1,50.0,10.8,1000,Android,13.0
+215,tecno,9999,74.0,No, None,helio,Helio G88,Octa Core,2.0,4,64,7000.0,Yes,6.95,90,3,1,50.0,8.0,256,Android,11.0
+216,vivo,31994,85.0,Yes, None,dimensity,Dimensity 1200,Octa Core,3.0,8,128,4300.0,Yes,6.56,90,3,2,108.0,50.0,1000,Android,12.0
+217,samsung,9299,65.0,No, None,helio,Helio P35,Octa Core,2.3,3,32,5000.0,No,6.5,60,2,1,13.0,5.0,1000,Android,12.0
+218,xiaomi,29990,84.0,Yes, IR Blaster,snapdragon,Snapdragon  8+ Gen1,Octa Core,3.2,8,128,5500.0,Yes,6.67,120,3,1,64.0,16.0,1000,Android,13.0
+219,realme,25900,78.0,Yes, None,dimensity,Dimensity  920 5G,Octa Core,2.5,6,128,4500.0,Yes,6.4,90,3,1,50.0,16.0,1000,Android,12.0
+220,realme,16999,78.0,Yes, None,dimensity,Dimensity 810 5G,Octa Core,2.4,6,128,5000.0,Yes,6.6,90,3,1,50.0,8.0,1000,Android,12.0
+221,motorola,24999,85.0,Yes, NFC,snapdragon,Snapdragon 778G+,Octa Core,2.5,8,128,4020.0,Yes,6.5,144,3,1,50.0,32.0,1000,Android,12.0
+222,xiaomi,12188,79.0,No, IR Blaster,snapdragon,Snapdragon  680,Octa Core,2.4,6,64,5000.0,Yes,6.43,90,4,1,50.0,13.0,512,Android,11.0
+223,vivo,8999,73.5,No, None,helio,Helio,Octa Core,2.432792990142388,3,32,5000.0,Yes,6.51,60,1,1,8.0,5.0,1000,Android,12.0
+224,poco,7499,68.0,No, None,helio,Helio G35,Octa Core,2.3,4,64,5000.0,No,6.53,60,3,1,13.0,5.0,512,Android,10.0
+225,realme,17999,79.0,Yes, None,dimensity,Dimensity 810 5G,Octa Core,2.4,6,128,5000.0,Yes,6.6,90,3,1,48.0,16.0,1000,Android,11.0
+226,realme,24999,79.0,Yes, None,snapdragon,Snapdragon 870,Octa Core,3.2,6,128,5000.0,Yes,6.62,120,3,1,64.0,16.0,1000,Android,12.0
+227,oppo,45999,86.0,Yes, NFC,dimensity,Dimensity 8100-Max,Octa Core,2.85,12,256,4500.0,Yes,6.7,120,3,1,50.0,32.0,1000,Android,12.0
+228,oneplus,65499,87.5,Yes, NFC,snapdragon,Snapdragon  8 Gen1,Octa Core,3.0,12,256,5000.0,Yes,6.7,120,3,1,50.0,32.0,1000,Android,12.0
+229,iqoo,58990,89.0,Yes, IR Blaster,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,8,256,4700.0,Yes,6.78,144,3,1,50.0,16.0,1000,Android,13.0
+230,vivo,11999,74.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,4,64,5000.0,Yes,6.58,90,2,1,50.0,8.0,1000,Android,12.0
+231,xiaomi,11999,77.0,No, IR Blaster,snapdragon,Snapdragon 680,Octa Core,2.4,8,128,6000.0,Yes,6.7,60,2,1,50.0,5.0,1000,Android,11.0
+232,oppo,18990,76.0,Yes, None,dimensity,Dimensity 700 5G,Octa Core,2.2,6,128,5000.0,Yes,6.56,90,2,1,50.0,8.0,1000,Android,12.0
+233,vivo,14499,77.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,4,128,5000.0,Yes,6.44,60,3,1,50.0,16.0,1000,Android,12.0
+234,xiaomi,106990,71.5,Yes, IR Blaster,snapdragon,Snapdragon  8+ Gen1,Octa Core,3.2,12,256,4500.0,Yes,8.02,120,3,1,50.0,20.0,1000,Android,12.0
+235,vivo,10499,66.0,No, None,helio,Helio P35,Octa Core,2.3,3,64,5000.0,Yes,6.51,60,2,1,13.0,5.0,1000,Android,12.0
+236,oppo,26990,86.0,Yes, NFC,snapdragon,Snapdragon  695,Octa Core,2.2,8,256,4500.0,Yes,6.43,60,3,1,64.0,16.0,1000,Android,12.0
+237,vivo,19990,82.0,No, None,helio,Helio G96,Octa Core,2.05,8,128,4050.0,Yes,6.44,60,3,1,50.0,44.0,1000,Android,12.0
+238,xiaomi,24999,89.0,Yes, IR Blaster,dimensity,Dimensity 1080,Octa Core,2.6,8,256,4300.0,Yes,6.67,120,3,1,200.0,16.0,512,Android,12.0
+239,oppo,13969,69.0,No, None,helio,Helio G35,Octa Core,2.3,4,64,5000.0,Yes,6.56,60,2,1,13.0,8.0,1000,Android,12.0
+240,samsung,44999,83.0,Yes, NFC,snapdragon,Snapdragon 778G+,Octa Core,2.432792990142388,8,128,5000.0,Yes,6.7,120,4,1,108.0,32.0,1000,Android,12.0
+241,vivo,24999,84.0,Yes, None,snapdragon,Snapdragon 778G,Octa Core,2.4,8,128,4700.0,Yes,6.44,90,3,1,64.0,16.0,1000,Android,12.0
+242,google,53100,86.0,Yes, NFC,google,Google Tensor G2,Octa Core,2.85,8,128,4355.0,Yes,6.3,90,2,1,50.0,10.8,1000,Android,13.0
+243,xiaomi,16999,81.0,Yes, IR Blaster,dimensity,Dimensity  810 5G,Octa Core,2.4,6,128,5000.0,Yes,6.6,90,2,1,50.0,16.0,1000,Android,11.0
+244,oppo,21899,82.0,No, None,snapdragon,Snapdragon  680,Octa Core,2.4,8,128,4500.0,Yes,6.43,90,3,1,64.0,32.0,512,Android,12.0
+245,apple,75999,82.0,Yes, NFC,bionic,Bionic A15,Hexa Core,3.22,6,256,3279.0,Yes,6.1,60,2,1,12.0,12.0,1000,iOS,16.0
+246,motorola,25999,85.0,Yes, NFC,dimensity,Dimensity 930,Octa Core,2.2,8,256,5000.0,Yes,6.5,120,2,1,50.0,16.0,1000,Android,13.0
+247,nubia,46990,84.0,Yes, NFC,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,8,128,6000.0,Yes,6.8,120,3,1,50.0,16.0,1000,Android,13.0
+248,motorola,9999,75.0,No, None,helio,Helio  G85,Octa Core,2.0,4,64,5000.0,Yes,6.47,60,3,1,50.0,13.0,1000,Android,11.0
+249,tecno,49999,89.0,Yes, NFC,dimensity,Dimensity 9000,Octa Core,3.05,12,256,5160.0,Yes,6.8,120,3,1,50.0,32.0,1000,Android,12.0
+250,infinix,17999,87.0,No, NFC,helio,Helio G99,Octa Core,2.2,8,128,4500.0,Yes,6.7,90,3,1,108.0,60.0,2000,Android,12.0
+251,iqoo,16940,80.0,Yes, None,snapdragon,Snapdragon  695,Octa Core,2.2,6,128,5000.0,Yes,6.58,120,3,1,50.0,16.0,1000,Android,12.0
+252,xiaomi,17990,81.0,Yes, IR Blaster,snapdragon,Snapdragon 695,Octa Core,2.2,6,64,5000.0,Yes,6.67,120,3,1,108.0,16.0,1000,Android,11.0
+253,oppo,20990,84.0,Yes, NFC,snapdragon,Snapdragon 695,Octa Core,2.2,8,128,4800.0,Yes,6.7,120,2,1,108.0,16.0,1000,Android,13.0
+254,samsung,51999,79.0,Yes, NFC,exynos,Exynos  2300,Octa Core,2.432792990142388,8,128,4200.0,Yes,6.4,120,3,1,12.0,32.0,1000,Android,12.0
+255,samsung,64449,87.0,Yes, NFC,snapdragon,Snapdragon  8 Gen1,Octa Core,3.0,8,128,4500.0,Yes,6.6,120,3,1,50.0,10.0,1000,Android,12.0
+256,vivo,8990,71.0,Yes, None,snapdragon,Snapdragon  480,Octa Core,2.0,6,64,5000.0,Yes,6.58,90,2,1,13.0,8.0,1000,Android,11.0
+257,motorola,19999,77.0,No, NFC,helio,Helio  G85,Octa Core,2.0,4,128,5000.0,Yes,6.5,90,3,1,50.0,16.0,512,Android,13.0
+258,poco,13499,79.0,Yes, IR Blaster,dimensity,Dimensity 700 5G,Octa Core,2.2,6,128,5000.0,Yes,6.58,90,2,1,50.0,8.0,512,Android,12.0
+259,tecno,15499,78.0,Yes, None,dimensity,Dimensity 900,Octa Core,2.4,8,128,6000.0,Yes,6.9,120,3,1,50.0,16.0,512,Android,11.0
+260,poco,6499,65.0,No, None,helio,Helio G35,Octa Core,2.3,3,32,5000.0,No,6.53,60,3,1,13.0,5.0,512,Android,10.0
+261,apple,71999,60.0,No, NFC,apple,Apple  A13,Hexa Core,2.432792990142388,4,64,3060.0,Yes,6.1,60,2,1,12.0,7.0,1000,iOS,12.3
+262,samsung,36499,89.0,Yes, NFC,exynos,Exynos 1280,Octa Core,2.4,8,256,5000.0,Yes,6.5,120,4,1,64.0,32.0,1000,Android,12.0
+263,infinix,15999,78.0,Yes, None,dimensity,Dimensity 810 5G,Octa Core,2.4,6,64,5000.0,Yes,6.7,60,3,1,50.0,16.0,2000,Android,12.0
+264,oppo,31994,87.0,Yes, NFC,dimensity,Dimensity  1200 Max,Octa Core,3.0,12,256,4500.0,Yes,6.55,90,3,1,50.0,32.0,1000,Android,11.0
+265,oneplus,34999,84.0,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,5000.0,Yes,6.7,120,3,1,50.0,16.0,1000,Android,13.0
+266,redmi,18999,81.0,No, IR Blaster,snapdragon,Snapdragon 712,Octa Core,2.3,6,128,5000.0,Yes,6.67,120,4,1,108.0,16.0,1000,Android,11.0
+267,nothing,39990,88.0,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,4700.0,Yes,6.67,120,3,1,50.0,32.0,1000,Android,13.0
+268,samsung,16499,82.0,No, None,helio,Helio G80,Octa Core,2.0,8,128,5000.0,Yes,6.4,90,4,1,64.0,20.0,1000,Android,11.0
+269,google,54300,89.0,Yes, NFC,google,Google  Tensor,Octa Core,2.8,12,128,5003.0,Yes,6.71,120,3,1,50.0,11.1,1000,Android,12.0
+270,infinix,9999,73.0,No, None,helio,Helio G85,Octa Core,2.0,4,64,5000.0,Yes,6.7,60,3,1,50.0,8.0,512,Android,12.0
+271,xiaomi,15990,77.0,Yes, IR Blaster,dimensity,Dimensity 700 5G,Octa Core,2.2,6,128,5000.0,Yes,6.58,90,2,1,50.0,5.0,512,Android,12.0
+272,xiaomi,22700,86.0,Yes, IR Blaster,Snapdragon,Snapdragon  695,Octa Core,2.2,8,128,5000.0,Yes,6.67,120,3,1,108.0,16.0,1000,Android,11.0
+273,xiaomi,50990,89.0,Yes, IR Blaster,snapdragon,Snapdragon 8 Gen1,Octa Core,3.0,8,256,4600.0,Yes,6.73,120,3,1,50.0,32.0,1000,Android,12.0
+274,apple,64900,79.0,Yes, NFC,bionic,Bionic A15,Hexa Core,3.22,4,128,2438.0,Yes,5.4,60,2,1,12.0,12.0,1000,iOS,15.0
+275,tecno,13799,77.0,No, None,helio,Helio G88,Octa Core,2.0,6,128,7000.0,Yes,6.9,90,3,1,50.0,8.0,256,Android,11.0
+276,realme,8999,65.0,No, None,tiger,Tiger T612,Octa Core,1.82,4,64,5000.0,No,6.52,60,3,1,13.0,5.0,1000,Android,11.0
+277,asus,89999,88.0,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,18,512,6000.0,Yes,6.78,165,3,1,50.0,12.0,1000,Android,12.0
+278,vivo,21994,84.0,Yes, None,dimensity,Dimensity  810 5G,Octa Core,2.4,8,128,4050.0,Yes,6.44,60,3,1,50.0,44.0,1000,Android,12.0
+279,apple,69990,70.0,No, NFC,bionic,Bionic A16,Hexa Core,2.432792990142388,6,128,3500.0,Yes,5.42,60,2,1,12.0,12.0,1000,iOS,15.0
+280,xiaomi,12999,75.0,Yes, IR Blaster,dimensity,Dimensity 700,Octa Core,2.2,4,64,5000.0,Yes,6.5,90,3,1,48.0,8.0,1000,Android,11.0
+281,iqoo,24990,83.0,Yes, NFC,dimensity,Dimensity 8200,Octa Core,3.1,8,128,5000.0,Yes,6.78,120,3,1,64.0,16.0,1000,Android,13.0
+282,samsung,19990,82.0,No, None,snapdragon,Snapdragon  680,Octa Core,2.4,8,128,5000.0,Yes,6.6,60,4,1,50.0,8.0,1000,Android,12.0
+283,xiaomi,26999,82.0,Yes, IR Blaster,dimensity,Dimensity 1080,Octa Core,2.6,8,128,5000.0,Yes,6.67,120,3,1,50.0,16.0,1000,Android,12.0
+284,xiaomi,19999,81.0,Yes, IR Blaster,snapdragon,Snapdragon 778G,Octa Core,2.4,8,128,5000.0,Yes,6.67,120,3,1,50.0,16.0,1000,Android,13.0
+285,infinix,16900,83.0,No, None,helio,Helio  G99,Octa Core,2.2,8,256,5000.0,Yes,6.7,60,3,1,108.0,16.0,2000,Android,12.0
+286,infinix,19999,78.0,Yes, None,dimensity,Dimensity 810,Octa Core,2.4,6,128,5000.0,Yes,6.6,120,2,1,50.0,8.0,1000,Android,12.0
+287,apple,182999,78.0,Yes, NFC,bionic,Bionic  A16,Hexa Core,2.432792990142388,6,1000,4323.0,Yes,6.7,120,3,1,48.0,12.0,1000,iOS,16.0
+288,samsung,12999,75.0,No, None,exynos,Exynos  850,Octa Core,2.0,6,128,6000.0,Yes,6.6,60,3,1,50.0,8.0,1000,Android,12.0
+289,poco,15999,82.0,Yes, IR Blaster,dimensity,Dimensity  810 5G,Octa Core,2.4,8,128,5000.0,Yes,6.6,90,2,1,50.0,16.0,1000,Android,11.0
+290,xiaomi,13999,82.0,No, IR Blaster,helio,Helio G95,Octa Core,2.05,8,128,5000.0,Yes,6.43,60,4,1,64.0,13.0,512,Android,11.0
+291,realme,7749,61.0,No, None,sc9863a,SC9863A,Octa Core,1.6,4,64,5000.0,No,6.52,60,1,1,8.0,5.0,1000,Android,11.0
+292,samsung,24999,81.0,Yes, None,snapdragon,Snapdragon 695,Octa Core,2.2,8,128,5000.0,Yes,6.6,120,4,1,50.0,8.0,1000,Android,12.0
+293,motorola,59999,81.5,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,12,256,4610.0,Yes,6.67,144,3,1,200.0,60.0,1000,Android,12.0
+294,oppo,25895,82.0,Yes, None,snapdragon,Snapdragon  695,Octa Core,2.2,8,128,4500.0,Yes,6.43,60,3,1,64.0,16.0,512,Android,12.0
+295,xiaomi,46990,89.0,Yes, IR Blaster,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,8,128,4500.0,Yes,6.36,120,3,1,50.0,32.0,1000,Android,13.0
+296,xiaomi,7499,64.0,No, None,helio,Helio  G25,Octa Core,2.0,3,32,5000.0,No,6.53,60,1,1,13.0,5.0,512,Android,11.0
+297,vivo,7790,60.0,No, None,helio,Helio P35,Octa Core,2.3,2,32,5000.0,Yes,6.51,60,1,1,8.0,5.0,1000,Android,11.0
+298,xiaomi,25999,85.0,Yes, IR Blaster,dimensity,Dimensity  8100,Octa Core,2.85,8,256,5080.0,Yes,6.6,144,3,1,64.0,16.0,1000,Android,12.0
+299,realme,6299,60.0,No, None,tiger,Tiger T612,Octa Core,1.82,3,32,5000.0,No,6.5,60,1,1,8.0,5.0,1000,Android,11.0
+300,motorola,12999,77.0,Yes, NFC,snapdragon,Snapdragon  480+,Octa Core,2.2,4,64,5000.0,No,6.8,120,3,1,50.0,13.0,512,Android,11.0
+301,xiaomi,11999,75.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,6,128,6000.0,Yes,6.7,60,2,1,50.0,5.0,512,Android,11.0
+302,xiaomi,21890,83.0,Yes, IR Blaster,snapdragon,Snapdragon  778G,Octa Core,2.4,6,128,4250.0,Yes,6.55,90,3,1,64.0,20.0,1000,Android,11.0
+303,samsung,69999,84.0,Yes, NFC,snapdragon,Snapdragon 888,Octa Core,2.84,8,128,3300.0,Yes,6.7,120,2,1,12.0,10.0,1000,Android,12.0
+304,apple,55999,75.0,Yes, NFC,bionic,Bionic A14,Hexa Core,3.1,4,128,4755.525933609959,No,6.1,60,2,1,12.0,12.0,1000,iOS,14.0
+305,oneplus,55999,87.0,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,16,256,4800.0,Yes,6.7,120,3,1,50.0,16.0,1000,Android,12.0
+306,samsung,14999,75.0,No, None,octa,Exynos,Octa Core,2.432792990142388,4,128,5000.0,Yes,6.6,60,4,1,50.0,8.0,1000,Android,12.0
+307,oppo,25994,85.0,Yes, NFC,dimensity,Dimensity 900,Octa Core,2.0,8,256,4500.0,Yes,6.43,90,3,1,64.0,32.0,1000,Android,11.0
+308,oneplus,42999,85.0,Yes, NFC,snapdragon,Snapdragon  888,Octa Core,2.84,8,128,4500.0,Yes,6.62,120,3,1,50.0,16.0,1000,Android,11.0
+309,samsung,33499,89.0,Yes, NFC,exynos,Exynos 1280,Octa Core,2.4,8,128,5000.0,Yes,6.5,120,4,1,64.0,32.0,1000,Android,12.0
+310,samsung,118999,84.5,Yes, NFC,snapdragon,Snapdragon  8 Gen1,Octa Core,3.0,12,512,5000.0,Yes,6.8,120,4,1,108.0,40.0,1000,Android,12.0
+311,motorola,16999,80.0,Yes, NFC,snapdragon,Snapdragon 695,Octa Core,2.2,6,128,5000.0,Yes,6.4,60,3,1,50.0,16.0,1000,Android,11.0
+312,vivo,29990,82.0,Yes, None,dimensity,Dimensity  900,Octa Core,2.4,8,128,5000.0,Yes,6.0,120,3,2,50.0,50.0,1000,Android,12.0
+313,samsung,12944,71.0,Yes, None,dimensity,Dimensity 700,Octa Core,2.2,4,64,5000.0,Yes,6.5,90,2,1,50.0,5.0,1000,Android,12.0
+314,poco,29990,84.0,Yes, IR Blaster,dimensity,Dimensity 9000 Plus,Octa Core,3.2,8,128,5000.0,Yes,6.7,144,3,1,64.0,32.0,1000,Android,13.0
+315,honor,16999,80.0,Yes, NFC,snapdragon,Snapdragon 695,Octa Core,2.2,8,128,4800.0,Yes,6.81,60,3,1,48.0,16.0,1000,Android,11.0
+316,iqoo,64999,89.0,Yes, NFC,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,16,256,5000.0,Yes,6.78,144,3,1,50.0,16.0,1000,Android,13.0
+317,samsung,154998,88.0,Yes, NFC,snapdragon,Snapdragon  8+ Gen1,Octa Core,3.2,12,256,4400.0,Yes,7.6,120,3,2,50.0,10.0,1000,Android,12.0
+318,royole,109999,87.0,Yes, None,snapdragon,Snapdragon 865,Octa Core,2.84,8,128,4450.0,No,7.8,60,3,1,64.0,32.0,256,Android,12.0
+319,apple,84999,83.0,Yes, NFC,bionic,Bionic A15,Hexa Core,3.22,6,256,4325.0,Yes,6.7,60,2,1,12.0,12.0,1000,iOS,16.0
+320,samsung,27499,85.0,Yes, NFC,exynos,Exynos  1280,Octa Core,2.4,8,128,5000.0,Yes,6.4,90,4,1,48.0,13.0,1000,Android,12.0
+321,tecno,8999,69.0,No, None,helio,Helio G37,Octa Core,2.3,6,128,5000.0,No,6.6,90,2,1,13.0,8.0,256,Android,12.0
+322,google,40480,84.0,Yes, NFC,google,Google Tensor,Octa Core,2.8,8,128,4614.0,Yes,6.4,90,2,1,50.0,8.0,1000,Android,12.0
+323,xiaomi,17999,81.0,No, IR Blaster,snapdragon,Snapdragon 732G,Octa Core,2.3,6,128,5020.0,Yes,6.67,120,4,1,64.0,16.0,512,Android,11.0
+324,samsung,105999,74.0,Yes, NFC,exynos,Exynos  2100,Octa Core,2.9,12,256,5000.0,Yes,6.8,120,4,1,108.0,40.0,1000,Android,10.0
+325,infinix,8999,67.0,No, None,helio,Helio G37,Octa Core,2.3,4,64,6000.0,Yes,6.82,90,2,1,13.0,8.0,256,Android,12.0
+326,vivo,14999,77.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,6,128,5000.0,Yes,6.58,90,2,1,50.0,8.0,1000,Android,12.0
+327,oppo,19990,82.0,Yes, None,snapdragon,Snapdragon  695,Octa Core,2.2,8,128,4500.0,Yes,6.5,90,3,1,64.0,32.0,256,Android,12.0
+328,iqoo,23399,80.0,Yes, None,snapdragon,Snapdragon  778G,Octa Core,2.4,8,128,4700.0,Yes,6.44,90,3,1,64.0,16.0,1000,Android,12.0
+329,samsung,41990,81.0,Yes, NFC,snapdragon,Snapdragon 778G,Octa Core,2.4,8,256,5000.0,Yes,6.7,120,4,1,108.0,32.0,1000,Android,12.0
+330,realme,22998,82.0,Yes, None,snapdragon,Snapdragon  778G,Octa Core,2.4,8,128,5000.0,Yes,6.6,144,3,1,48.0,16.0,1000,Android,11.0
+331,poco,25999,82.0,Yes, NFC,snapdragon,Snapdragon  870,Octa Core,3.2,6,128,4500.0,Yes,6.67,120,3,1,64.0,20.0,1000,Android,12.0
+332,infinix,11700,74.0,No, None,helio,Helio G88,Octa Core,2.0,4,64,5000.0,Yes,6.7,60,3,1,50.0,16.0,512,Android,11.0
+333,samsung,6499,79.0,No, None,unisoc,Unisoc  SC9836A,Quad Core,1.6,2,32,5000.0,No,6.5,60,1,1,8.0,5.0,1000,Android,10.0
+334,motorola,15999,84.0,No, NFC,snapdragon,Snapdragon  732G,Octa Core,2.3,6,128,6000.0,Yes,6.78,120,3,1,108.0,32.0,1000,Android,11.0
+335,oneplus,64800,89.0,Yes, NFC,snapdragon,Snapdragon 888,Octa Core,2.84,8,128,4500.0,Yes,6.7,120,4,1,48.0,16.0,1000,Android,11.0
+336,xiaomi,14590,80.0,No, IR Blaster,helio,Helio  G96,Octa Core,2.05,6,64,5000.0,Yes,6.43,90,4,1,108.0,16.0,512,Android,11.0
+337,xiaomi,7499,68.0,No, None,helio,Helio G35,Octa Core,2.3,4,64,5000.0,No,6.53,60,2,1,13.0,5.0,512,Android,11.0
+338,tecno,21999,82.0,Yes, NFC,dimensity,Dimensity 810 5G,Octa Core,2.4,8,128,5000.0,Yes,6.8,120,3,1,64.0,16.0,1000,Android,12.0
+339,samsung,11999,71.0,No, None,helio,Helio P35,Octa Core,2.3,4,64,5000.0,Yes,6.5,60,2,1,50.0,5.0,1000,Android,12.0
+340,poco,12999,79.0,No, IR Blaster,helio,Helio G96,Octa Core,2.05,6,128,5000.0,Yes,6.43,90,3,1,64.0,16.0,1000,Android,11.0
+341,oneplus,20990,81.0,Yes, NFC,snapdragon,Snapdragon 695,Octa Core,2.2,6,128,4500.0,Yes,6.43,60,3,1,64.0,16.0,1000,Android,11.0
+342,apple,72999,79.0,Yes, NFC,bionic,Bionic A15,Hexa Core,3.22,4,256,3240.0,Yes,6.1,60,2,1,12.0,12.0,1000,iOS,15.0
+343,oppo,77990,79.0,Yes, NFC,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,12,256,4700.0,Yes,6.78,120,3,1,50.0,32.0,1000,Android,13.0
+344,vivo,56999,79.0,Yes, IR Blaster,dimensity,Dimensity 9200,Octa Core,3.05,8,256,4870.0,Yes,6.78,120,3,1,50.3,32.0,1000,Android,13.0
+345,motorola,21999,79.0,Yes, NFC,snapdragon,Snapdragon 480+,Octa Core,2.2,4,128,5000.0,Yes,6.5,120,2,1,50.0,16.0,1000,Android,13.0
+346,motorola,9499,75.0,No, None,helio,Helio  G37,Octa Core,2.3,4,64,5000.0,Yes,6.53,90,4,1,50.0,16.0,1000,Android,12.0
+347,xiaomi,7499,66.0,No, None,helio,Helio G25,Octa Core,2.0,4,64,5000.0,Yes,6.53,60,1,1,13.0,5.0,512,Android,10.0
+348,jio,4649,64.0,No, None,qualcomm,Qualcomm 215,Quad Core,1.3,2,32,3500.0,No,5.45,60,1,1,13.0,8.0,512,Android,11.0
+349,vivo,18000,62.0,No, None,helio,Helio P22,Octa Core,2.0,4,32,4030.0,No,6.2,60,2,1,13.0,8.0,256,Android,8.1
+350,xiaomi,38999,85.0,Yes, IR Blaster,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,8,128,5000.0,Yes,6.67,120,3,1,54.0,16.0,1000,Android,13.0
+351,realme,7145,81.0,No, None,unisoc,Unisoc SC9863A,Octa Core,1.6,2,32,5000.0,Yes,6.5,60,1,1,8.0,5.0,1000,Android,12.0
+352,vivo,14990,77.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,8,128,5000.0,Yes,6.55,90,2,1,50.0,8.0,1000,Android,12.0
+353,oppo,15499,70.0,No, None,helio,Helio G35,Octa Core,2.3,4,64,5000.0,Yes,6.56,60,2,1,50.0,8.0,1000,Android,12.0
+354,xiaomi,9999,69.0,No, IR Blaster,helio,Helio G25,Octa Core,2.0,6,128,5000.0,No,6.53,60,1,1,13.0,5.0,512,Android,11.0
+355,poco,29999,86.0,Yes, NFC,snapdragon,Snapdragon  870,Octa Core,3.2,12,256,4500.0,Yes,6.67,120,3,1,64.0,20.0,1000,Android,12.0
+356,realme,15999,84.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,8,128,5000.0,Yes,6.4,90,3,1,108.0,16.0,256,Android,12.0
+357,xiaomi,59990,89.0,Yes, IR Blaster,snapdragon,Snapdragon  8+ Gen1,Octa Core,3.2,8,128,5000.0,Yes,6.67,120,3,1,200.0,20.0,1000,Android,12.0
+358,iqoo,34990,84.0,Yes, None,snapdragon,Snapdragon  888+,Octa Core,2.9,8,128,4350.0,Yes,6.56,120,3,1,48.0,16.0,1000,Android,12.0
+359,apple,45999,75.0,Yes, NFC,bionic,Bionic A14,Hexa Core,3.1,4,128,4755.525933609959,No,5.4,60,2,1,12.0,12.0,1000,iOS,14.0
+360,samsung,119990,85.0,Yes, None,snapdragon,Snapdragon 8+ Gen 2,Octa Core,2.432792990142388,12,256,5100.0,Yes,6.83,144,4,1,200.0,60.0,1000,Android,13.0
+361,oppo,89990,88.0,Yes, NFC,dimensity,Dimensity 9000,Octa Core,3.05,8,128,4300.0,Yes,6.8,120,2,1,50.0,32.0,1000,Android,12.0
+362,oneplus,50999,87.0,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,12,256,4800.0,Yes,6.7,120,3,1,50.0,16.0,1000,Android,12.0
+363,tecno,7999,65.0,No, None,helio,Helio G37,Octa Core,2.3,4,64,5000.0,No,6.6,90,2,1,13.0,8.0,256,Android,12.0
+364,samsung,43999,88.0,Yes, NFC,exynos,Exynos  2100,Octa Core,2.9,8,256,4500.0,Yes,6.4,120,3,1,12.0,32.0,1000,Android,11.0
+365,xiaomi,18499,83.0,Yes, IR Blaster,dimensity,Dimensity  810 5G,Octa Core,2.4,8,128,5000.0,Yes,6.6,90,2,1,50.0,16.0,1000,Android,11.0
+366,sony,134999,84.0,Yes, NFC,snapdragon,Snapdragon 888,Octa Core,2.84,12,512,4500.0,Yes,6.5,120,3,1,12.0,8.0,1000,Android,11.0
+367,vivo,32999,85.0,Yes, None,snapdragon,Snapdragon 765G,Octa Core,2.4,8,128,4300.0,Yes,6.44,60,2,2,64.0,44.0,1000,Android,11.0
+368,poco,13499,80.0,No, IR Blaster,snapdragon,Snapdragon  732G,Octa Core,2.3,6,64,6000.0,Yes,6.67,120,4,1,64.0,20.0,512,Android,10.0
+369,samsung,35489,86.0,No, NFC,exynos,Exynos 990,Octa Core,2.73,8,128,4500.0,Yes,6.5,120,3,1,12.0,32.0,1000,Android,10.0
+370,google,20120,78.0,No, NFC,snapdragon,Snapdragon 855,Octa Core,2.8,6,64,2800.0,Yes,5.7,60,2,2,16.0,8.0,1000,Android,10.0
+371,samsung,42999,81.0,No, NFC,exynos,Exynos 9820,Octa Core,2.7,8,128,4100.0,Yes,6.4,60,3,2,16.0,10.0,512,Android,9.0
+372,realme,24999,78.0,Yes, None,dimensity,Dimensity  930,Octa Core,2.2,6,128,4200.0,Yes,6.4,90,3,1,50.0,16.0,1000,Android,12.0
+373,oppo,20999,82.0,No, None,snapdragon,Snapdragon  680,Octa Core,2.4,8,128,4500.0,Yes,6.5,90,3,1,64.0,32.0,256,Android,12.0
+374,realme,28994,84.0,Yes, NFC,snapdragon,Snapdragon  888,Octa Core,2.84,8,128,5000.0,Yes,6.62,120,3,1,50.0,16.0,1000,Android,12.0
+375,samsung,48900,88.0,Yes, NFC,exynos,Exynos  2100,Octa Core,2.9,8,128,4000.0,Yes,6.2,120,3,1,64.0,10.0,1000,Android,10.0
+376,samsung,22494,86.0,No, None,snapdragon,Snapdragon 730,Octa Core,2.2,8,128,4500.0,Yes,6.7,60,4,1,64.0,32.0,1000,Android,10.0
+377,vivo,8990,61.0,No, None,helio,Helio P35,Octa Core,2.3,3,32,5000.0,Yes,6.51,60,1,1,8.0,5.0,1000,Android,12.0
+378,letv,6999,62.0,No, None,unisoc,Unisoc,Octa Core,2.432792990142388,4,32,4000.0,No,6.5,60,3,1,13.0,8.0,1000,Android,11.0
+379,tecno,8890,63.0,No, None,unisoc,Unisoc  T606,Octa Core,2.0,4,64,5000.0,No,6.6,90,2,1,13.0,8.0,256,Android,11.0
+380,iqoo,18498,82.0,Yes, None,snapdragon,Snapdragon  695,Octa Core,2.2,8,128,5000.0,Yes,6.58,120,3,1,50.0,16.0,1000,Android,12.0
+381,vivo,23999,81.0,Yes, None,snapdragon,Snapdragon 778G,Octa Core,2.4,6,128,4700.0,Yes,6.44,90,3,1,64.0,16.0,1000,Android,12.0
+382,realme,22994,81.0,Yes, None,dimensity,Dimensity  920 5G,Octa Core,2.5,8,128,4500.0,Yes,6.4,90,3,1,50.0,16.0,1000,Android,12.0
+383,samsung,12990,71.0,No, None,exynos,Exynos 850,Octa Core,2.0,4,64,5000.0,Yes,6.5,90,3,1,50.0,5.0,1000,Android,12.0
+384,realme,14999,78.0,No, None,snapdragon,Snapdragon  680,Octa Core,2.4,6,128,5000.0,Yes,6.6,90,3,1,50.0,16.0,1000,Android,11.0
+385,realme,18499,80.0,Yes, None,dimensity,Dimensity 700 5G,Octa Core,2.2,8,128,5000.0,Yes,6.5,90,3,1,48.0,16.0,1000,Android,11.0
+386,oppo,14990,78.0,No, None,snapdragon,Snapdragon 662,Octa Core,2.0,6,128,5000.0,Yes,6.4,60,3,1,48.0,16.0,256,Android,11.0
+387,oppo,70990,88.0,Yes, NFC,dimensity,Dimensity 9000 Plus,Octa Core,3.2,8,256,4300.0,Yes,6.8,120,2,1,50.0,32.0,1000,Android,12.0
+388,samsung,12120,75.0,No, None,helio,Helio G80,Octa Core,2.0,4,64,6000.0,Yes,6.4,90,4,1,64.0,20.0,1000,Android,11.0
+389,oukitel,29990,84.0,No, NFC,helio,Helio G95,Octa Core,2.0,8,256,21000.0,Yes,6.78,60,3,1,64.0,16.0,1000,Android,12.0
+390,realme,20999,82.0,Yes, None,snapdragon,Snapdragon  695,Octa Core,2.2,8,128,5000.0,Yes,6.6,120,3,1,64.0,16.0,256,Android,12.0
+391,xiaomi,11999,80.0,No, IR Blaster,snapdragon,Snapdragon 720G,Octa Core,2.3,6,128,5020.0,Yes,6.67,60,4,1,48.0,16.0,512,Android,10.0
+392,samsung,17990,73.0,Yes, NFC,dimensity,Dimensity 700 5G,Octa Core,2.2,4,64,5000.0,Yes,6.5,90,3,1,50.0,5.0,1000,Android,11.0
+393,xiaomi,14990,77.0,Yes, IR Blaster,dimensity,Dimensity  810 5G,Octa Core,2.4,4,128,5000.0,Yes,6.6,90,2,1,50.0,16.0,512,Android,11.0
+394,itel,6490,80.0,No, None,spreadtrum,Spreadtrum  SC7731E,Quad Core,1.3,1,16,5000.0,No,6.5,60,2,1,8.0,8.0,1000,Android,9.0
+395,realme,34999,83.0,Yes, NFC,snapdragon,Snapdragon  8+ Gen1,Octa Core,3.2,8,128,4600.0,Yes,6.7,120,3,1,50.0,16.0,1000,Android,13.0
+396,apple,149900,79.0,Yes, NFC,bionic,Bionic  A17,Octa Core,2.432792990142388,8,128,4700.0,Yes,6.73,120,3,1,48.0,12.0,1000,iOS,17.0
+397,poco,6499,77.66666666666667,No, None,helio,Helio A22,Quad Core,2.0,2,32,5000.0,Yes,6.52,60,2,1,8.0,5.0,512,Android,12.0
+398,samsung,104999,76.33333333333333,Yes, NFC,snapdragon,Snapdragon  8+ Gen1,Octa Core,3.2,12,256,4500.0,Yes,6.71,120,3,1,200.0,10.0,1000,Android,12.0
+399,realme,13999,75.0,No, None,snapdragon,Snapdragon  680,Octa Core,2.4,4,128,5000.0,Yes,6.6,90,3,1,50.0,16.0,1000,Android,11.0
+400,xiaomi,16999,79.0,Yes, IR Blaster,dimensity,Dimensity  810 5G,Octa Core,2.4,6,64,5000.0,Yes,6.6,90,2,1,50.0,16.0,1000,Android,11.0
+401,vivo,79999,83.0,Yes, NFC,snapdragon,Snapdragon  8 Gen1,Octa Core,3.0,12,256,4700.0,Yes,6.78,120,4,1,50.0,32.0,1000,Android,12.0
+402,oppo,36760,87.0,Yes, NFC,dimensity,Dimensity 1200,Octa Core,3.0,12,256,4500.0,Yes,6.55,90,4,1,64.0,32.0,1000,Android,11.0
+403,xiaomi,23499,81.0,Yes, IR Blaster,dimensity,Dimensity  920 5G,Octa Core,2.5,6,128,5160.0,Yes,6.67,120,3,1,108.0,16.0,1000,Android,11.0
+404,asus,75990,87.0,Yes, NFC,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,18,256,6000.0,Yes,6.8,165,3,1,64.0,32.0,1000,Android,13.0
+405,oppo,21990,76.0,Yes, None,snapdragon,Snapdragon  810,Octa Core,2.4,6,128,5000.0,Yes,6.56,90,2,1,48.0,8.0,1000,Android,12.0
+406,realme,18999,80.0,Yes, None,snapdragon,Snapdragon  778G,Octa Core,2.4,6,128,5000.0,Yes,6.6,144,3,1,48.0,16.0,1000,Android,11.0
+407,samsung,7249,66.0,No, None,unisoc,Unisoc  T606,Octa Core,1.6,3,32,5000.0,Yes,6.5,60,2,1,48.0,5.0,1000,Android,11.0
+408,oneplus,16990,75.0,Yes, NFC,snapdragon,Snapdragon  480,Octa Core,2.0,4,64,5000.0,Yes,6.49,90,3,1,13.0,16.0,1000,Android,11.0
+409,xiaomi,23890,80.0,Yes, IR Blaster,snapdragon,Snapdragon 870,Octa Core,3.2,6,128,4520.0,Yes,6.67,120,3,1,48.0,20.0,1000,Android,11.0
+410,oppo,26380,83.0,Yes, NFC,dimensity,Dimensity 900,Octa Core,2.0,8,128,4300.0,Yes,6.43,90,3,1,64.0,32.0,1000,Android,11.0
+411,realme,27999,87.0,Yes, NFC,snapdragon,Snapdragon 865,Octa Core,2.84,12,256,4200.0,Yes,6.44,90,2,2,64.0,32.0,1000,Android,10.0
+412,xiaomi,10850,70.0,No, None,helio,Helio  G25,Octa Core,2.0,6,128,5000.0,No,6.53,60,1,1,13.0,5.0,512,Android,11.0
+413,redmi,19999,81.0,Yes, IR Blaster,snapdragon,Snapdragon 778G,Octa Core,2.4,6,128,5000.0,Yes,6.67,120,3,1,108.0,16.0,1000,Android,13.0
+414,apple,129990,76.0,Yes, NFC,bionic,Bionic  A16,Hexa Core,2.432792990142388,6,256,3200.0,Yes,6.1,120,3,1,48.0,12.0,1000,iOS,16.0
+415,motorola,19990,81.0,Yes, NFC,snapdragon,Snapdragon 695,Octa Core,2.2,6,128,5000.0,Yes,6.5,120,3,1,108.0,16.0,1000,Android,12.0
+416,motorola,41990,83.33333333333333,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,4450.0,Yes,6.67,144,3,1,200.0,60.0,1000,Android,12.0
+417,xiaomi,69990,85.66666666666667,Yes, IR Blaster,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,8,256,4860.0,Yes,6.73,120,3,1,50.0,32.0,1000,Android,12.0
+418,honor,39990,88.0,Yes, NFC,snapdragon,Snapdragon  778G Plus,Octa Core,2.5,12,512,4800.0,Yes,6.67,120,3,1,54.0,32.0,1000,Android,12.0
+419,oneplus,74999,87.5,Yes, NFC,snapdragon,Snapdragon  8 Gen1,Octa Core,3.0,12,512,5000.0,Yes,6.7,120,3,1,50.0,32.0,1000,Android,12.1
+420,vivo,36994,87.0,Yes, None,dimensity,Dimensity 1200,Octa Core,3.0,12,256,4300.0,Yes,6.56,90,3,2,108.0,50.0,1000,Android,12.0
+421,oppo,14700,76.0,No, None,helio,Helio G35,Octa Core,2.3,6,128,5000.0,Yes,6.51,60,3,1,50.0,16.0,256,Android,11.0
+422,xiaomi,34990,86.0,Yes, IR Blaster,snapdragon,Snapdragon  888,Octa Core,2.84,8,128,5000.0,Yes,6.67,120,3,1,108.0,16.0,1000,Android,11.0
+423,nokia,34999,76.0,Yes, None,snapdragon,Snapdragon 775,Hexa Core,2.432792990142388,6,64,6000.0,Yes,6.81,60,4,1,108.0,32.0,1000,Android,11.0
+424,xiaomi,13990,75.0,No, IR Blaster,snapdragon,Snapdragon 678,Octa Core,2.2,4,64,5000.0,Yes,6.43,60,4,1,48.0,13.0,512,Android,11.0
+425,samsung,14859,79.0,No, None,helio,Helio G80,Octa Core,2.0,6,128,6000.0,Yes,6.4,90,4,1,64.0,20.0,1000,Android,11.0
+426,tecno,17999,84.0,No, NFC,helio,Helio G96,Octa Core,2.05,8,128,5000.0,Yes,6.8,120,3,1,64.0,32.0,512,Android,12.0
+427,poco,34990,85.0,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,4700.0,Yes,6.7,120,3,1,64.0,32.0,1000,Android,12.0
+428,blu,14990,85.0,Yes, NFC,dimensity,Dimensity  810 5G,Octa Core,2.4,8,128,5000.0,Yes,6.8,60,4,1,48.0,16.0,1000,Android,11.0
+429,oppo,8999,65.0,No, None,helio,Helio P22,Octa Core,2.0,3,32,4230.0,No,6.52,60,1,1,13.0,5.0,1000,Android,11.0
+430,motorola,8999,71.0,No, None,helio,Helio G37,Octa Core,2.3,4,64,5000.0,Yes,6.5,90,2,1,50.0,8.0,1000,Android,12.0
+431,xiaomi,15824,84.0,No, IR Blaster,helio,Helio  G96,Octa Core,2.05,8,128,5000.0,Yes,6.43,90,4,1,108.0,16.0,512,Android,11.0
+432,apple,43900,85.0,Yes, NFC,bionic,Bionic  A15,Hexa Core,3.22,4,64,4755.525933609959,No,4.7,60,1,1,12.0,7.0,1000,iOS,15.0
+433,samsung,22494,86.0,No, None,snapdragon,Snapdragon  720G,Octa Core,2.3,8,128,4500.0,Yes,6.453319502074689,60,4,1,64.0,32.0,1000,Android,12.0
+434,poco,19650,82.0,No, IR Blaster,snapdragon,Snapdragon 860,Octa Core,2.96,6,128,5160.0,Yes,6.67,120,4,1,48.0,20.0,1000,Android,11.0
+435,xiaomi,6999,61.0,No, None,helio,Helio G25,Octa Core,2.0,2,32,5000.0,No,6.53,60,1,1,13.0,5.0,512,Android,10.0
+436,samsung,16499,80.0,No, None,helio,Helio G80,Octa Core,2.0,6,128,5000.0,Yes,6.4,90,4,1,64.0,20.0,1000,Android,11.0
+437,motorola,15999,75.0,No, NFC,helio,Helio G85,Octa Core,2.0,4,128,5000.0,Yes,6.5,90,3,1,50.0,8.0,512,Android,13.0
+438,asus,72999,88.0,Yes, NFC,dimensity,Dimensity 9000 Plus,Octa Core,3.2,16,256,6000.0,Yes,6.78,165,3,1,50.0,12.0,1000,Android,12.0
+439,xiaomi,26999,84.0,Yes, IR Blaster,dimensity,Dimensity 1080,Octa Core,2.6,6,128,4980.0,Yes,6.67,120,3,1,200.0,16.0,1000,Android,12.0
+440,infinix,6999,79.5,No, None,helio,Helio A22,Quad Core,2.0,2,32,5000.0,No,6.6,60,2,1,8.0,5.0,512,Android,11.0
+441,apple,130990,75.0,Yes, NFC,bionic,Bionic  A16,Hexa Core,2.432792990142388,8,128,4755.525933609959,No,6.06,120,3,1,50.0,12.0,1000,iOS,15.0
+442,realme,12787,71.0,No, None,tiger,Tiger  T616,Octa Core,1.8,4,128,5000.0,Yes,6.453319502074689,60,3,1,50.0,8.0,1000,Android,12.0
+443,infinix,9999,72.0,No, None,helio,Helio G37,Octa Core,2.3,4,64,6000.0,Yes,6.82,90,3,1,50.0,8.0,512,Android,11.0
+444,vivo,54999,86.0,Yes, None,dimensity,Dimensity  9000,Octa Core,3.05,8,128,4500.0,Yes,6.78,120,3,1,50.0,32.0,1000,Android,12.0
+445,vivo,15490,79.0,No, None,helio,Helio G80,Octa Core,2.0,8,128,5000.0,Yes,6.58,60,3,1,64.0,16.0,1000,Android,11.0
+446,tecno,25999,84.0,No, None,helio,Helio G95,Octa Core,2.05,8,256,4700.0,Yes,6.7,90,3,2,50.0,48.0,1000,Android,11.0
+447,samsung,9499,68.0,No, None,helio,Helio P35,Octa Core,2.3,4,128,5000.0,Yes,6.5,60,2,1,13.0,5.0,1000,Android,12.0
+448,redmi,7999,70.0,No, None,helio,Helio  G85,Octa Core,2.0,4,64,5000.0,No,6.71,60,2,1,50.0,5.0,512,Android,12.0
+449,asus,63990,86.0,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,4300.0,Yes,5.9,120,2,1,50.0,12.0,1000,Android,12.0
+450,sony,15990,73.0,No, NFC,helio,Helio  P35,Octa Core,2.3,4,64,4000.0,Yes,6.2,60,3,1,13.0,8.0,512,Android,12.0
+451,iqoo,34949,85.0,Yes, NFC,snapdragon,Snapdragon  888,Octa Core,2.84,12,256,4500.0,Yes,6.62,120,3,1,48.0,16.0,1000,Android,12.0
+452,tecno,8799,72.0,No, None,helio,Helio G85,Octa Core,2.0,4,64,5000.0,Yes,6.8,60,3,1,48.0,8.0,1000,Android,11.0
+453,xiaomi,12390,74.0,No, IR Blaster,helio,Helio G88,Octa Core,2.0,4,64,6000.0,Yes,6.5,90,4,1,50.0,8.0,512,Android,11.0
+454,samsung,11499,73.0,No, None,helio,Helio G80,Octa Core,2.0,4,64,6000.0,No,6.4,90,4,1,48.0,13.0,1000,Android,11.0
+455,xiaomi,199990,79.5,Yes, None,snapdragon,Snapdragon 855+,Octa Core,2.96,12,512,4050.0,Yes,7.92,60,3,1,108.0,16.55840248962656,1000,Android,10.0
+456,oppo,42990,86.0,Yes, NFC,dimensity,Dimensity 9000,Octa Core,3.05,16,256,5000.0,Yes,6.73,120,2,1,50.0,32.0,1000,Android,13.0
+457,nubia,34999,82.0,Yes, NFC,snapdragon,Snapdragon  8 Gen2,Octa Core,3.2,8,128,5000.0,Yes,6.67,144,3,1,64.0,16.0,1000,Android,13.0
+458,samsung,11999,75.0,No, NFC,exynos,Exynos 850,Octa Core,2.0,4,128,6000.0,Yes,6.6,60,3,1,50.0,8.0,1000,Android,12.0
+459,nokia,10499,70.0,No, None,unisoc,Unisoc T606,Octa Core,1.6,4,64,5000.0,Yes,6.52,90,2,1,50.0,8.0,512,Android,12.0
+460,infinix,8910,66.0,No, None,tiger,Tiger T610,Octa Core,1.82,4,64,6000.0,Yes,6.82,90,2,1,13.0,8.0,256,Android,11.0
+461,vivo,24990,85.0,Yes, None,snapdragon,Snapdragon  870,Octa Core,3.2,8,128,4700.0,Yes,6.62,120,3,1,64.0,16.0,1000,Android,12.0
+462,oppo,17999,84.0,Yes, NFC,snapdragon,Snapdragon  695,Octa Core,2.2,8,128,4500.0,Yes,6.43,60,3,1,64.0,16.0,1000,Android,11.0
+463,xiaomi,22999,86.0,Yes, IR Blaster,snapdragon,Snapdragon  778G,Octa Core,2.4,8,128,4250.0,Yes,6.55,90,3,1,64.0,20.0,1000,Android,11.0
+464,realme,6490,85.5,No, None,unisoc,Unisoc  SC9863A,Octa Core,1.6,2,32,5000.0,No,6.5,60,1,1,8.0,5.0,256,Android,11.0
+465,infinix,21990,85.0,Yes, None,helio,Helio  G95,Octa Core,2.05,8,128,4500.0,Yes,6.67,120,3,1,108.0,16.0,512,Android,11.0
+466,samsung,12364,76.0,No, None,helio,Helio G80,Octa Core,2.0,4,64,6000.0,Yes,6.4,90,4,1,64.0,20.0,1000,Android,11.0
+467,samsung,39990,86.0,Yes, NFC,snapdragon,Snapdragon 855+,Octa Core,2.96,6,128,4500.0,Yes,6.71,120,3,1,64.0,10.0,1000,Android,11.0
+468,xiaomi,11999,77.0,No, None,snapdragon,Snapdragon 845,Octa Core,2.8,6,64,4000.0,Yes,6.18,60,2,1,12.0,20.0,256,Android,8.1
+469,vivo,7499,68.5,No, None,helio,Helio MT6580,Quad Core,1.3,1,16,1900.0,No,4.5,60,1,1,5.0,2.0,128,Android,5.1
+470,lyf,3990,60.0,No, None,snapdragon,Snapdragon 615,Octa Core,1.5,3,32,3500.0,No,5.5,60,2,1,13.0,5.0,64,Android,5.1
+471,motorola,10499,65.0,No, None,tiger,Tiger T606,Octa Core,2.0,2,64,5000.0,Yes,6.5,60,1,1,13.0,5.0,1000,Android,13.0
+472,tecno,6299,69.0,No, None,helio,Helio A22,Quad Core,2.0,2,32,5000.0,No,6.56,60,2,1,8.0,5.0,1000,Android,12.0
+473,itel,5990,73.0,No, None,unisoc,Unisoc  SC9832E,Quad Core,1.4,2,32,3020.0,No,5.0,60,1,1,2.0,0.3,1000,Android,12.0
+474,vivo,113990,77.0,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,12,256,4730.0,Yes,8.03,120,2,2,50.0,16.0,1000,Android,12.0
+475,samsung,21999,84.0,Yes, NFC,dimensity,Dimensity 900,Octa Core,2.0,6,128,7000.0,Yes,6.7,60,4,1,64.0,32.0,1000,Android,12.0
+476,iqoo,15999,80.0,No, None,snapdragon,Snapdragon  680,Octa Core,2.4,6,128,5000.0,Yes,6.44,120,3,1,50.0,16.0,1000,Android,12.0
+477,sony,69990,86.0,Yes, NFC,snapdragon,Snapdragon 865,Octa Core,2.84,8,128,4000.0,Yes,6.1,120,3,1,12.0,8.0,1000,Android,10.0
+478,vivo,12990,71.0,No, None,helio,Helio P35,Octa Core,2.3,4,128,5000.0,Yes,6.35,60,3,1,13.0,16.0,256,Android,9.0
+479,sony,92980,72.5,Yes, NFC,snapdragon,Snapdragon 8 Gen1,Octa Core,3.0,12,512,5000.0,Yes,6.5,120,4,1,12.0,12.0,1000,Android,12.0
+480,tecno,15999,74.0,No, None,helio,Helio G99,Octa Core,2.2,8,256,6000.0,Yes,6.66,90,2,1,50.0,8.0,1000,Android,12.0
+481,huawei,23999,84.0,No, NFC,sanpdragon,Sanpdragon 680,Octa Core,2.4,8,256,4500.0,Yes,6.67,90,3,1,108.0,16.0,1000,Android,12.0
+482,vivo,12999,75.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,4,128,5000.0,Yes,6.58,90,2,1,50.0,8.0,1000,Android,12.0
+483,nubia,60990,86.0,Yes, NFC,snapdragon,Snapdragon  8+ Gen1,Octa Core,3.2,12,256,5000.0,Yes,6.8,120,3,1,64.0,8.0,1000,Android,12.0
+484,motorola,8859,67.0,No, None,helio,Helio G37,Octa Core,1.8,4,64,5000.0,Yes,6.5,90,3,1,16.0,8.0,1000,Android,12.0
+485,iqoo,33749,84.0,Yes, IR Blaster,snapdragon,Snapdragon 870,Octa Core,3.2,12,256,4700.0,Yes,6.62,120,3,1,64.0,16.0,1000,Android,12.0
+486,samsung,15990,63.0,No, None,octa,Exynos,Octa Core,2.432792990142388,6,64,5000.0,Yes,6.5,60,3,1,48.0,8.0,1000,Android,12.0
+487,poco,24990,84.0,Yes, IR Blaster,dimensity,Dimensity 8100,Octa Core,2.85,8,128,5080.0,Yes,6.6,144,3,1,64.0,16.0,1000,Android,12.0
+488,realme,14999,76.0,Yes, None,dimensity,Dimensity 810 5G,Octa Core,2.4,4,128,5000.0,Yes,6.6,90,3,1,48.0,16.0,1000,Android,11.0
+489,vivo,17990,76.0,Yes, None,dimensity,Dimensity  930,Octa Core,2.2,6,128,4500.0,Yes,6.64,120,2,1,50.0,8.0,1000,Android,12.0
+490,honor,24990,75.0,Yes, None,dimensity,Dimensity 900,Octa Core,2.0,8,128,4300.0,Yes,6.67,120,3,1,64.0,16.0,1000,Android,11.0
+491,xiaomi,11600,74.0,No, IR Blaster,helio,Helio G99,Octa Core,2.2,4,64,5000.0,Yes,6.58,90,3,1,50.0,8.0,512,Android,12.0
+492,realme,8299,62.0,No, None,tiger,Tiger T612,Octa Core,1.82,3,32,5000.0,No,6.52,60,3,1,13.0,5.0,1000,Android,11.0
+493,motorola,11999,78.0,No, None,helio,Helio  G85,Octa Core,2.0,6,128,5000.0,Yes,6.47,60,3,1,50.0,13.0,1000,Android,11.0
+494,samsung,89999,88.0,Yes, NFC,snapdragon,Snapdragon  8+ Gen1,Octa Core,3.2,8,128,3700.0,Yes,6.7,120,2,1,12.0,10.0,1000,Android,12.0
+495,oneplus,27999,77.0,No, NFC,snapdragon,Snapdragon 845,Octa Core,2.8,8,128,3300.0,No,6.28,60,2,1,20.0,16.0,1000,Android,8.1
+496,google,15990,69.0,No, NFC,snapdragon,Snapdragon 835,Octa Core,2.35,4,128,3520.0,Yes,6.0,60,1,1,12.2,8.0,1000,Android,8.0
+497,xiaomi,7289,60.0,No, None,helio,Helio A22,Quad Core,2.0,2,32,5000.0,Yes,6.52,60,2,1,8.0,5.0,512,Android,12.0
+498,honor,30990,86.0,Yes, NFC,snapdragon,Snapdragon  778G Plus,Octa Core,2.5,8,256,4800.0,Yes,6.67,120,3,1,54.0,32.0,1000,Android,12.0
+499,realme,15499,77.0,No, None,helio,Helio G96,Octa Core,2.0,6,128,5000.0,Yes,6.6,120,3,1,50.0,16.0,256,Android,11.0
+500,vivo,8499,66.0,No, None,helio,Helio P35,Octa Core,2.3,3,32,5000.0,No,6.51,60,2,1,13.0,8.0,1000,Android,11.0
+501,samsung,14490,80.0,No, None,helio,Helio G80,Octa Core,2.0,6,128,6000.0,Yes,6.4,90,4,1,64.0,20.0,1000,Android,11.0
+502,samsung,15490,80.0,Yes, None,dimensity,Dimensity 700 5G,Octa Core,2.2,6,128,5000.0,Yes,6.6,90,3,1,64.0,8.0,1000,Android,11.0
+503,realme,14990,78.0,Yes, None,snapdragon,Snapdragon 695,Octa Core,2.2,6,128,5000.0,Yes,6.6,120,3,1,50.0,16.0,1000,Android,12.0
+504,poco,15999,75.0,Yes, IR Blaster,dimensity,Dimensity 700 5G,Octa Core,2.2,4,64,5000.0,Yes,6.5,90,3,1,48.0,8.0,1000,Android,11.0
+505,google,36000,82.0,Yes, NFC,snapdragon,Snapdragon 765G,Octa Core,2.4,8,128,4080.0,Yes,6.0,90,2,1,16.0,8.0,1000,Android,11.0
+506,oneplus,69999,84.0,Yes, NFC,snapdragon,Snapdragon  8 Gen2,Octa Core,3.2,12,256,4800.0,Yes,6.73,144,3,1,108.0,32.0,1000,Android,13.0
+507,xiaomi,26990,86.0,Yes, IR Blaster,dimensity,Dimensity 1080,Octa Core,2.6,8,256,4300.0,Yes,6.67,120,3,1,200.0,16.0,1000,Android,12.0
+508,samsung,10630,71.0,No, None,exynos,Exynos  850,Octa Core,2.0,4,64,6000.0,Yes,6.6,60,3,1,50.0,8.0,1000,Android,12.0
+509,oppo,42990,85.0,Yes, NFC,dimensity,Dimensity 8100-Max,Octa Core,2.85,8,256,4500.0,Yes,6.7,120,3,1,50.0,32.0,1000,Android,12.0
+510,vivo,24990,77.0,Yes, None,dimensity,Dimensity 1300,Octa Core,3.0,8,128,4500.0,Yes,6.58,90,3,1,50.0,16.0,1000,Android,12.0
+511,iqoo,14489,77.0,No, None,snapdragon,Snapdragon  680,Octa Core,2.4,4,128,5000.0,Yes,6.44,120,3,1,50.0,16.0,1000,Android,12.0
+512,oppo,16490,73.0,No, None,snapdragon,Snapdragon  680,Octa Core,2.4,6,128,5000.0,Yes,6.56,90,2,1,13.0,8.0,1000,Android,11.0
+513,realme,24494,82.0,Yes, None,dimensity,Dimensity  920 5G,Octa Core,2.5,8,256,4500.0,Yes,6.4,90,3,1,50.0,16.0,1000,Android,12.0
+514,vivo,7999,61.0,No, None,helio,Helio P35,Octa Core,2.3,2,32,5000.0,No,6.51,60,1,1,8.0,5.0,1000,Android,11.0
+515,motorola,23990,85.0,Yes, None,snapdragon,Snapdragon 888+,Octa Core,2.9,6,128,5000.0,Yes,6.8,144,3,1,108.0,16.0,1000,Android,11.0
+516,realme,49959,89.0,Yes, NFC,snapdragon,Snapdragon 8 Gen1,Octa Core,3.0,8,128,5000.0,Yes,6.7,120,3,1,50.0,32.0,1000,Android,12.0
+517,apple,129900,83.0,Yes, NFC,bionic,Bionic A15,Hexa Core,3.22,6,256,3095.0,Yes,6.1,120,3,1,12.0,12.0,1000,iOS,15.0
+518,vivo,19990,80.0,No, None,helio,Helio G95,Octa Core,2.05,8,128,4000.0,Yes,6.44,60,3,1,64.0,16.0,1000,Android,11.0
+519,samsung,14990,67.0,No, NFC,octa,Exynos,Octa Core,2.432792990142388,4,64,5000.0,Yes,6.62,60,3,1,50.0,16.0,1000,Android,13.0
+520,vivo,23269,85.0,No, None,snapdragon,Snapdragon  720G,Octa Core,2.3,8,128,4000.0,Yes,6.44,60,3,1,64.0,44.0,1000,Android,11.0
+521,xiaomi,13999,75.0,No, IR Blaster,snapdragon,Snapdragon 720G,Octa Core,2.3,4,64,5020.0,Yes,6.67,60,4,1,48.0,16.0,512,Android,10.0
+522,oneplus,35389,85.0,Yes, NFC,dimensity,Dimensity 8100 Max,Octa Core,2.85,8,128,5000.0,Yes,6.7,120,3,1,50.0,16.0,1000,Android,12.0
+523,google,79700,73.5,Yes, NFC,google,Google  Tensor,Octa Core,2.8,12,256,5003.0,Yes,6.71,120,3,1,50.0,11.1,1000,Android,12.0
+524,nokia,9499,62.0,No, None,unisoc,Unisoc  SC9863A,Octa Core,1.6,3,32,5050.0,Yes,6.74,60,3,1,13.0,5.0,256,Android,12.0
+525,infinix,12340,76.0,No, None,tiger,Tiger T616,Octa Core,2.0,8,128,5000.0,Yes,6.6,90,2,1,50.0,8.0,256,Android,12.0
+526,poco,10799,74.0,No, IR Blaster,helio,Helio G99,Octa Core,2.2,4,64,5000.0,Yes,6.58,90,3,1,50.0,8.0,512,Android,12.0
+527,xiaomi,14990,73.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,4,128,6000.0,Yes,6.7,60,2,1,50.0,5.0,512,Android,11.0
+528,zte,61990,89.0,Yes, NFC,snapdragon,Snapdragon 8 Gen1,Octa Core,3.0,8,128,5000.0,Yes,6.8,120,3,1,64.0,16.0,1000,Android,12.0
+529,xiaomi,51880,84.5,Yes, IR Blaster,snapdragon,Snapdragon 8 Gen1,Octa Core,3.0,12,256,4600.0,Yes,6.73,120,3,1,50.0,32.0,1000,Android,12.0
+530,oppo,16990,80.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,8,128,5000.0,Yes,6.59,90,3,1,50.0,16.0,1000,Android,11.0
+531,huawei,19990,84.0,No, NFC,snapdragon,Snapdragon  680,Octa Core,2.4,8,128,4000.0,Yes,6.78,90,4,1,108.0,16.0,1000,Android,11.0
+532,samsung,57999,87.0,Yes, NFC,snapdragon,Snapdragon  8 Gen1,Octa Core,3.0,8,256,3700.0,Yes,6.1,120,3,1,50.0,10.0,1000,Android,12.0
+533,lenovo,46990,87.0,Yes, NFC,snapdragon,Snapdragon  8 Gen1,Octa Core,3.0,12,256,5600.0,Yes,6.92,144,2,1,64.0,16.0,1000,Android,12.0
+534,vivo,20990,77.0,Yes, NFC,dimensity,Dimensity 700 5G,Octa Core,2.2,4,128,5000.0,Yes,6.58,60,3,1,50.0,8.0,1000,Android,11.0
+535,nokia,17990,82.0,Yes, NFC,snapdragon,Snapdragon  480,Octa Core,2.0,6,128,4470.0,Yes,6.67,60,4,1,48.0,16.0,1000,Android,11.0
+536,realme,17499,82.0,Yes, None,dimensity,Dimensity  810 5G,Octa Core,2.4,8,128,5000.0,Yes,6.5,90,3,1,64.0,16.0,1000,Android,11.0
+537,realme,17999,80.0,Yes, None,dimensity,Dimensity  810 5G,Octa Core,2.4,6,128,5000.0,Yes,6.5,90,3,1,64.0,16.0,1000,Android,11.0
+538,nokia,49990,77.0,Yes, None,snapdragon,Snapdragon  870,Octa Core,3.2,8,128,6000.0,Yes,6.51,144,4,1,200.0,32.0,1000,Android,11.0
+539,poco,14999,74.0,Yes, IR Blaster,snapdragon,Snapdragon 695,Octa Core,2.2,4,128,5000.0,Yes,6.67,120,3,1,48.0,8.0,1000,Android,12.0
+540,xiaomi,19980,82.0,No, IR Blaster,snapdragon,Snapdragon  732G,Octa Core,2.3,6,128,5020.0,Yes,6.67,120,4,1,108.0,16.0,512,Android,11.0
+541,iqoo,35990,85.0,Yes, NFC,snapdragon,Snapdragon 870,Octa Core,3.2,12,256,4400.0,Yes,6.62,120,3,1,48.0,16.0,1000,Android,11.0
+542,realme,15999,78.0,No, None,helio,Helio G95,Octa Core,2.0,4,128,5000.0,Yes,6.4,60,4,1,64.0,16.0,256,Android,11.0
+543,samsung,41999,88.0,No, NFC,exynos,Exynos  990,Octa Core,2.73,8,128,4000.0,Yes,6.453319502074689,60,3,1,64.0,10.0,1000,Android,12.0
+544,xiaomi,25999,83.0,Yes, IR Blaster,dimensity,Dimensity 8200,Octa Core,3.1,8,128,5500.0,Yes,6.67,120,3,1,48.0,20.0,1000,Android,12.0
+545,motorola,7990,65.0,No, None,helio,Helio G37,Octa Core,1.8,3,32,5000.0,Yes,6.5,90,3,1,16.0,8.0,1000,Android,12.0
+546,oneplus,29990,84.0,Yes, NFC,dimensity,Dimensity  1300,Octa Core,3.0,8,128,4500.0,Yes,6.43,90,3,1,50.0,32.0,1000,Android,12.0
+547,oppo,27990,83.0,Yes, None,snapdragon,Snapdragon  7 Gen1,Octa Core,2.36,8,128,4500.0,Yes,6.43,90,4,1,50.0,16.0,256,Android,12.0
+548,poco,29999,84.0,Yes, IR Blaster,snapdragon,Snapdragon  8+ Gen1,Octa Core,3.2,8,128,5500.0,Yes,6.67,120,3,1,64.0,16.0,1000,Android,13.0
+549,oppo,8999,68.0,No, None,helio,Helio P22,Octa Core,2.0,4,64,4230.0,No,6.52,60,1,1,13.0,5.0,1000,Android,11.0
+550,poco,13999,81.0,No, IR Blaster,helio,Helio G96,Octa Core,2.05,8,128,5000.0,Yes,6.43,90,3,1,64.0,16.0,1000,Android,11.0
+551,realme,11499,71.0,No, None,helio,Helio  G85,Octa Core,2.0,4,64,6000.0,Yes,6.5,60,3,1,50.0,8.0,256,Android,11.0
+552,asus,39999,87.0,Yes, NFC,snapdragon,Snapdragon  888+,Octa Core,2.9,8,128,6000.0,Yes,6.78,144,3,1,64.0,24.0,1000,Android,11.0
+553,realme,27999,84.0,Yes, NFC,snapdragon,Snapdragon  778G,Octa Core,2.4,8,128,4300.0,Yes,6.43,120,3,1,64.0,32.0,1000,Android,11.0
+554,samsung,24499,79.0,Yes, NFC,dimensity,Dimensity 720,Octa Core,2.0,6,128,5000.0,Yes,6.5,90,4,1,48.0,13.0,1000,Android,11.0
+555,nubia,60999,86.0,Yes, NFC,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,12,256,5000.0,Yes,6.8,120,3,1,50.0,16.0,1000,Android,13.0
+556,samsung,110999,89.0,Yes, NFC,snapdragon,Snapdragon 888,Octa Core,2.84,12,256,4400.0,Yes,7.6,120,3,2,12.0,10.0,1000,Android,12.0
+557,lg,54999,89.0,Yes, NFC,snapdragon,Snapdragon  765G,Octa Core,2.4,8,128,4000.0,Yes,6.8,60,3,1,64.0,32.0,1000,Android,12.0
+558,xiaomi,16490,80.0,No, IR Blaster,snapdragon,Snapdragon 720G,Octa Core,2.3,6,64,5020.0,Yes,6.67,60,4,1,64.0,32.0,512,Android,10.0
+559,samsung,24990,83.0,No, None,snapdragon,Snapdragon  720G,Octa Core,2.3,6,128,4500.0,Yes,6.5,90,4,1,64.0,32.0,1000,Android,11.0
+560,vivo,25000,74.5,No, None,snapdragon,Snapdragon 425,Quad Core,1.4,3,16,3360.0,No,6.0,60,1,1,13.0,5.0,1000,Android,8.1
+561,samsung,9950,66.0,No, None,helio,Helio P35,Octa Core,2.3,3,64,5000.0,No,6.5,60,2,1,13.0,5.0,1000,Android,12.0
+562,oppo,12999,75.0,Yes, None,dimensity,Dimensity 810,Octa Core,2.4,8,128,5000.0,No,6.56,60,2,1,13.0,8.0,1000,Android,12.0
+563,oppo,19999,83.0,No, NFC,helio,Helio G99,Octa Core,2.2,8,256,5000.0,Yes,6.67,120,3,1,50.0,16.0,1000,Android,13.0
+564,oppo,32999,84.0,Yes, NFC,snapdragon,Snapdragon 778G Plus,Octa Core,2.5,8,256,5000.0,Yes,6.73,120,3,1,50.0,32.0,1000,Android,13.0
+565,nokia,28498,81.0,Yes, NFC,snapdragon,Snapdragon  695,Octa Core,2.2,6,128,4500.0,Yes,6.58,120,3,1,50.0,8.0,1000,Android,12.0
+566,oppo,15998,71.0,No, None,helio,Helio G35,Octa Core,2.3,4,128,5000.0,Yes,6.56,60,2,1,50.0,8.0,1000,Android,12.0
+567,motorola,59990,89.0,Yes, NFC,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,8,128,4800.0,Yes,6.7,165,3,1,50.0,60.0,1000,Android,12.0
+568,oppo,16990,78.0,Yes, None,snapdragon,Snapdragon 695,Octa Core,2.2,6,128,5000.0,Yes,6.59,120,3,1,64.0,16.0,1000,Android,12.0
+569,iqoo,27999,82.0,Yes, None,snapdragon,Snapdragon  778G,Octa Core,2.4,12,256,4700.0,Yes,6.44,90,3,1,64.0,16.0,1000,Android,12.0
+570,nokia,13499,75.0,No, None,unisoc,Unisoc  T606,Octa Core,1.6,6,128,5050.0,Yes,6.5,90,3,1,50.0,8.0,512,Android,11.0
+571,samsung,16499,78.0,No, None,octa,Exynos,Octa Core,2.432792990142388,6,128,5000.0,Yes,6.6,60,4,1,50.0,8.0,1000,Android,12.0
+572,oppo,10999,66.0,No, None,helio,Helio G35,Octa Core,2.3,4,64,4230.0,No,6.52,60,1,1,13.0,5.0,256,Android,11.0
+573,tecno,9999,74.0,No, None,helio,Helio  G85,Octa Core,2.0,4,64,5000.0,Yes,6.6,90,3,1,48.0,32.0,1000,Android,12.0
+574,realme,31994,83.0,Yes, NFC,dimensity,Dimensity  8100,Octa Core,2.85,8,128,5000.0,Yes,6.7,120,3,1,50.0,16.0,1000,Android,12.0
+575,xiaomi,24820,83.0,Yes, IR Blaster,dimensity,Dimensity  920 5G,Octa Core,2.5,6,128,4500.0,Yes,6.67,120,3,1,108.0,16.0,1000,Android,11.0
+576,iqoo,22990,83.0,Yes, None,snapdragon,Snapdragon 870,Octa Core,3.2,8,128,4700.0,Yes,6.62,120,3,1,64.0,16.0,1000,Android,12.0
+577,iqoo,59990,88.0,Yes, NFC,snapdragon,Snapdragon 8 Gen1,Octa Core,3.0,8,256,4700.0,Yes,6.78,120,3,1,50.0,16.0,1000,Android,12.0
+578,realme,8999,62.0,No, None,unisoc,Unisoc  SC9863A,Octa Core,1.6,4,64,5000.0,No,6.5,60,1,1,8.0,5.0,256,Android,11.0
+579,xiaomi,10499,72.0,No, None,helio,Helio G35,Octa Core,2.3,6,128,5000.0,No,6.53,60,2,1,13.0,5.0,512,Android,11.0
+581,xiaomi,9990,75.0,No, IR Blaster,helio,Helio G85,Octa Core,2.0,4,64,4000.0,Yes,6.3,60,4,1,48.0,13.0,1000,Android,11.0
+582,xiaomi,12490,76.0,Yes, IR Blaster,dimensity,Dimensity 700 5G,Octa Core,2.2,4,128,5000.0,Yes,6.5,90,3,1,48.0,8.0,512,Android,11.0
+583,vivo,13990,69.0,No, None,helio,Helio G80,Octa Core,2.0,4,64,5000.0,Yes,6.51,60,3,1,13.0,8.0,256,Android,11.0
+584,samsung,17990,79.0,Yes, None,dimensity,Dimensity 700 5G,Octa Core,2.2,6,128,5000.0,Yes,6.6,90,3,1,48.0,8.0,1000,Android,11.0
+585,vivo,24999,83.0,No, None,dimensity,Dimensity 800U,Octa Core,2.4,8,128,4000.0,Yes,6.44,90,3,1,64.0,44.0,1000,Android,11.0
+586,realme,21999,85.0,No, None,snapdragon,Snapdragon 720G,Octa Core,2.3,8,128,4500.0,Yes,6.4,60,4,1,64.0,32.0,256,Android,10.0
+587,oneplus,19999,77.0,No, None,snapdragon,Snapdragon 690,Octa Core,2.0,8,128,4300.0,Yes,6.55,90,3,1,48.0,16.0,1000,Android,10.0
+588,samsung,99999,77.0,Yes, NFC,exynos,Exynos 990,Octa Core,2.73,12,128,5000.0,Yes,6.9,60,4,1,108.0,40.0,1000,Android,10.0
+589,apple,109900,77.0,No, NFC,a13,A13 Bionic,Hexa Core,2.65,4,64,3500.0,Yes,6.5,60,3,1,12.0,12.0,1000,iOS,13.0
+590,apple,52990,78.5,No, None,fusion,Fusion APL1024,Quad Core,2.37,3,32,2230.0,No,4.7,60,1,1,13.0,7.0,1000,iOS,10.0
+591,sony,19990,80.0,No, NFC,snapdragon,Snapdragon 4 Gen 1,Octa Core,2.0,8,128,5000.0,Yes,6.5,120,2,1,50.0,16.0,1000,Android,13.0
+592,samsung,11499,69.0,No, None,helio,Helio P35,Octa Core,2.3,4,128,5000.0,No,6.5,60,2,1,13.0,5.0,1000,Android,12.0
+593,xiaomi,13999,75.0,No, IR Blaster,helio,Helio G99,Octa Core,2.2,4,64,5000.0,Yes,6.67,120,3,1,48.0,13.0,1000,Android,13.0
+594,oukitel,22990,82.0,No, None,helio,Helio G99,Octa Core,2.2,12,256,9800.0,Yes,6.78,120,3,1,64.0,16.55840248962656,1000,Android,12.0
+595,vivo,28990,84.0,Yes, None,snapdragon,Snapdragon 6 Gen 1,Octa Core,2.2,8,256,5000.0,Yes,6.7,120,3,1,108.0,32.0,1000,Android,13.0
+596,poco,27999,85.0,Yes, NFC,snapdragon,Snapdragon  870,Octa Core,3.2,8,128,4500.0,Yes,6.67,120,3,1,64.0,20.0,1000,Android,12.0
+597,xiaomi,19990,82.0,Yes, IR Blaster,dimensity,Dimensity  8100,Octa Core,2.85,6,128,5080.0,Yes,6.6,144,3,1,64.0,16.0,1000,Android,12.0
+598,realme,22999,83.0,Yes, None,dimensity,Dimensity 920 5G,Octa Core,2.5,8,128,5000.0,Yes,6.453319502074689,60,3,1,48.0,16.0,1000,Android,12.0
+599,vivo,17999,82.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,8,128,5000.0,Yes,6.44,60,3,1,50.0,16.0,1000,Android,12.0
+600,xiaomi,15499,81.0,No, IR Blaster,helio,Helio  G96,Octa Core,2.05,6,128,5000.0,Yes,6.43,90,4,1,108.0,16.0,512,Android,11.0
+601,lava,17990,84.0,Yes, None,dimensity,Dimensity  810 5G,Octa Core,2.4,8,128,5000.0,Yes,6.453319502074689,60,4,1,64.0,16.0,1000,Android,12.0
+602,realme,13999,77.0,No, None,helio,Helio G96,Octa Core,2.05,6,128,5000.0,Yes,6.6,120,3,1,50.0,16.0,256,Android,11.0
+603,oppo,13499,73.0,No, None,helio,Helio G35,Octa Core,2.3,4,64,5000.0,Yes,6.51,60,3,1,50.0,16.0,256,Android,11.0
+604,poco,14799,79.0,Yes, IR Blaster,dimensity,Dimensity 700 5G,Octa Core,2.2,6,128,5000.0,Yes,6.5,90,3,1,48.0,8.0,1000,Android,11.0
+605,realme,6999,62.0,No, None,unisoc,Unisoc T610,Octa Core,1.8,3,32,5000.0,No,6.5,60,3,1,13.0,5.0,256,Android,11.0
+606,oppo,11999,69.0,No, None,helio,Helio G35,Octa Core,2.3,4,64,5000.0,No,6.52,60,3,1,13.0,8.0,1000,Android,11.0
+607,vivo,23994,85.0,Yes, None,dimensity,Dimensity 800U,Octa Core,2.4,8,128,4000.0,Yes,6.44,90,3,1,64.0,44.0,1000,Android,11.0
+609,apple,139900,80.0,Yes, NFC,bionic,Bionic A14,Hexa Core,3.1,6,512,4755.525933609959,No,6.1,60,3,1,12.0,12.0,1000,iOS,14.0
+610,sony,69999,89.0,Yes, NFC,snapdragon,Snapdragon  865,Octa Core,2.84,8,256,4000.0,Yes,6.5,60,4,1,12.0,8.0,1000,Android,10.0
+611,motorola,57999,89.0,Yes, NFC,snapdragon,Snapdragon  865,Octa Core,2.84,12,256,5000.0,Yes,6.7,90,3,1,108.0,25.0,1000,Android,10.0
+612,samsung,86000,87.0,No, NFC,exynos,Exynos  990,Octa Core,2.73,8,256,4300.0,Yes,6.7,60,3,1,64.0,10.0,1000,Android,10.0
+613,samsung,11999,71.0,No, None,helio,Helio P35,Octa Core,2.3,4,64,5000.0,Yes,6.5,60,4,1,48.0,8.0,1000,Android,10.0
+614,xiaomi,14999,77.0,No, IR Blaster,snapdragon,Snapdragon 732G,Octa Core,2.3,6,128,5000.0,Yes,6.67,120,3,1,50.0,16.0,1000,Android,12.0
+615,realme,26499,81.0,Yes, None,snapdragon,Snapdragon 870,Octa Core,3.2,8,128,5000.0,Yes,6.62,120,3,1,64.0,16.0,1000,Android,12.0
+616,realme,8990,62.0,No, None,unisoc,Unisoc SC9863A,Octa Core,1.6,4,64,5000.0,Yes,6.5,60,1,1,8.0,5.0,1000,Android,12.0
+617,apple,95999,82.0,Yes, NFC,bionic,Bionic A15,Hexa Core,3.22,6,512,3279.0,Yes,6.1,60,2,1,12.0,12.0,1000,iOS,16.0
+618,iqoo,47990,85.0,Yes, IR Blaster,snapdragon,Snapdragon  8+ Gen1,Octa Core,3.2,8,128,4700.0,Yes,6.453319502074689,60,3,1,50.0,16.0,1000,Android,12.0
+619,tecno,17990,81.0,No, None,helio,Helio  G96,Octa Core,2.05,8,128,5000.0,Yes,6.8,120,3,1,64.0,32.0,1000,Android,12.0
+620,oneplus,22999,83.0,Yes, NFC,snapdragon,Snapdragon 695,Octa Core,2.2,8,128,5000.0,Yes,6.59,120,3,1,64.0,16.0,1000,Android,12.0
+621,samsung,99990,84.5,Yes, NFC,snapdragon,Snapdragon  8 Gen1,Octa Core,3.0,8,128,5000.0,Yes,6.8,120,4,1,108.0,40.0,1000,Android,12.0
+622,poco,39999,86.0,Yes, IR Blaster,snapdragon,Snapdragon  8 Gen1,Octa Core,3.0,8,128,4700.0,Yes,6.67,120,3,1,64.0,20.0,1000,Android,12.0
+623,xiaomi,38999,88.0,Yes, IR Blaster,snapdragon,Snapdragon  888,Octa Core,2.84,12,256,5000.0,Yes,6.67,120,3,1,108.0,16.0,1000,Android,11.0
+624,vivo,12490,63.0,No, None,helio,Helio P35,Octa Core,2.3,4,128,5000.0,No,6.51,60,2,1,13.0,8.0,1000,Android,11.0
+625,samsung,39990,86.0,Yes, NFC,snapdragon,Snapdragon 870,Octa Core,3.2,6,128,4500.0,Yes,6.71,120,3,1,64.0,10.0,1000,Android,11.0
+626,vivo,16685,80.0,No, None,helio,Helio G80,Octa Core,2.0,8,128,5000.0,Yes,6.58,60,3,1,50.0,16.0,1000,Android,11.0
+627,huawei,69990,73.0,No, IR Blaster,kirin,Kirin  9000,Octa Core,3.13,8,128,4400.0,Yes,6.76,90,3,1,50.0,13.0,256,Harmony,2.0
+628,micromax,6999,66.0,No, None,unisoc,Unisoc  T610,Octa Core,1.8,4,64,5000.0,No,6.52,60,2,1,13.0,5.0,256,Android,11.0
+629,realme,26999,84.0,Yes, NFC,dimensity,Dimensity 1200,Octa Core,3.0,8,128,4500.0,Yes,6.43,120,3,1,64.0,16.0,1000,Android,11.0
+630,realme,16499,75.0,Yes, None,dimensity,Dimensity 700 5G,Octa Core,2.2,4,128,5000.0,Yes,6.5,90,3,1,48.0,16.0,1000,Android,11.0
+631,oppo,17990,74.0,Yes, None,dimensity,Dimensity 700,Octa Core,2.2,6,128,5000.0,No,6.5,60,3,1,13.0,8.0,1000,Android,11.0
+632,xiaomi,8999,68.0,No, None,helio,Helio G35,Octa Core,2.3,4,64,5000.0,No,6.53,60,2,1,13.0,5.0,512,Android,10.0
+633,letv,5999,60.0,No, None,tiger,Tiger T610,Quad Core,1.8,6,64,4000.0,Yes,6.5,60,2,1,8.0,5.0,1000,Android,11.0
+634,vivo,16990,77.0,Yes, None,dimensity,Dimensity 700,Octa Core,2.0,8,128,6000.0,Yes,6.58,60,2,1,50.0,8.0,1000,Android,11.0
+635,oppo,22990,84.0,Yes, NFC,snapdragon,Snapdragon  6 Gen 1,Octa Core,2.2,8,128,4800.0,Yes,6.58,120,3,1,50.0,32.0,1000,Android,13.0
+636,vivo,19990,84.0,No, None,helio,Helio G99,Octa Core,2.2,8,256,4500.0,Yes,6.44,90,3,1,64.0,32.0,1000,Android,12.0
+637,infinix,10850,74.0,No, None,tiger,Tiger T616,Octa Core,2.0,6,64,5000.0,Yes,6.6,90,2,1,50.0,8.0,256,Android,12.0
+638,realme,13499,75.0,Yes, None,dimensity,Dimensity 810 5G,Octa Core,2.4,4,64,5000.0,Yes,6.6,90,3,1,48.0,16.0,1000,Android,11.0
+639,itel,6699,61.0,No, None,unisoc,Unisoc  SC9863a,Octa Core,1.6,3,64,5000.0,Yes,6.6,60,2,1,8.0,5.0,128,Android,11.0
+640,oppo,17999,80.0,No, None,snapdragon,Snapdragon  680,Octa Core,2.4,8,128,5000.0,Yes,6.59,90,2,1,50.0,16.0,1000,Android,11.0
+641,xiaomi,13990,69.0,Yes, IR Blaster,dimensity,Dimensity 700 5G,Octa Core,2.2,4,128,5000.0,Yes,6.58,90,2,1,50.0,5.0,1000,Android,11.0
+642,honor,94990,64.5,Yes, NFC,snapdragon,Snapdragon  8 Gen1,Octa Core,3.0,12,512,4600.0,Yes,6.76,120,2,1,50.0,13.0,1000,Android,12.0
+643,infinix,7320,60.0,No, None,helio,Helio A22,Quad Core,2.0,2,64,5000.0,No,6.6,60,2,1,8.0,5.0,512,Android,11.0
+644,realme,8999,69.0,No, None,tiger,Tiger  T610,Octa Core,1.8,4,64,5000.0,Yes,6.5,60,3,1,50.0,8.0,256,Android,11.0
+645,samsung,13999,75.0,No, None,helio,Helio P35,Octa Core,2.3,6,128,5000.0,Yes,6.5,60,4,1,48.0,8.0,1000,Android,10.0
+646,tecno,14746,79.0,No, NFC,helio,Helio  G85,Octa Core,2.0,6,128,5000.0,Yes,6.8,60,3,1,64.0,16.0,512,Android,12.0
+647,xiaomi,16999,83.0,Yes, IR Blaster,dimensity,Dimensity 1100 5G,Octa Core,2.6,6,128,5000.0,Yes,6.6,120,3,1,64.0,16.0,1000,Android,11.0
+648,xiaomi,25990,83.0,Yes, IR Blaster,snapdragon,Snapdragon 870,Octa Core,3.2,8,128,4520.0,Yes,6.67,120,3,1,48.0,20.0,1000,Android,11.0
+649,xiaomi,16499,78.0,No, IR Blaster,snapdragon,Snapdragon 678,Octa Core,2.2,6,128,5000.0,Yes,6.43,60,4,1,48.0,13.0,512,Android,11.0
+650,xiaomi,23500,80.0,Yes, NFC,snapdragon,Snapdragon 865,Octa Core,2.84,6,128,5000.0,Yes,6.67,144,3,1,64.0,20.0,1000,Android,10.0
+651,lg,54999,85.0,Yes, NFC,snapdragon,Snapdragon  765G,Octa Core,2.4,6,128,4300.0,Yes,6.8,60,3,1,48.0,16.0,1000,Android,10.0
+652,motorola,19499,80.0,No, None,snapdragon,Snapdragon 730G,Octa Core,2.2,6,128,5000.0,Yes,6.5,60,4,1,64.0,16.0,1000,Android,10.0
+653,lg,79990,81.5,Yes, NFC,snapdragon,Snapdragon  865,Octa Core,2.84,8,128,5000.0,Yes,6.8,60,3,1,64.0,10.0,1000,Android,12.0
+654,samsung,39999,83.0,No, NFC,exynos,Exynos 9810,Octa Core,2.7,6,128,4500.0,Yes,6.7,60,3,1,12.0,32.0,1000,Android,10.0
+655,samsung,92999,89.0,Yes, IR Blaster,exynos,Exynos 9825,Octa Core,2.7,12,256,4300.0,Yes,6.8,60,4,1,12.0,10.0,512,Android,9.0
+656,iqoo,32990,84.0,Yes, IR Blaster,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,8,256,5000.0,Yes,6.78,120,3,1,50.0,16.0,1000,Android,13.0
+657,samsung,14499,72.0,No, None,exynos,Exynos 850,Octa Core,2.0,4,128,5000.0,Yes,6.5,90,3,1,50.0,5.0,1000,Android,12.0
+658,vivo,13999,70.0,Yes, None,dimensity,Dimensity 700 5G,Octa Core,2.2,4,128,5000.0,Yes,6.51,60,2,1,13.0,5.0,1000,Android,13.0
+659,vivo,7999,71.0,No, None,helio,Helio,Octa Core,2.432792990142388,2,32,5000.0,Yes,6.51,60,1,1,8.0,5.0,1000,Android,12.0
+660,itel,5785,72.0,No, None,unisoc,Unisoc  SC9863a,Octa Core,1.6,2,32,5000.0,Yes,6.6,60,2,1,8.0,5.0,128,Android,11.0
+661,xiaomi,12990,73.0,Yes, IR Blaster,dimensity,Dimensity 700 5G,Octa Core,2.2,4,128,5000.0,Yes,6.58,90,2,1,13.0,5.0,512,Android,12.0
+662,poco,19990,84.0,Yes, IR Blaster,dimensity,Dimensity  920 5G,Octa Core,2.5,8,128,5100.0,Yes,6.73,120,3,1,108.0,32.0,1000,Android,13.0
+663,oppo,23990,79.0,Yes, None,dimensity,Dimensity 810 5G,Octa Core,2.4,12,256,5000.0,Yes,6.56,90,2,1,48.0,8.0,1000,Android,12.0
+664,samsung,17999,77.0,No, None,exynos,Exynos 7904,Octa Core,1.8,6,64,4000.0,Yes,6.4,60,3,1,48.0,16.0,1000,Android,12.0
+665,infinix,16999,80.0,No, None,helio,Helio  G99,Octa Core,2.2,6,128,5000.0,Yes,6.91,60,4,1,108.0,16.0,256,Android,12.0
+666,honor,9999,68.0,Yes, None,snapdragon,Snapdragon 480+,Octa Core,2.2,4,128,5000.0,No,6.5,60,1,1,13.0,5.0,1000,Android,11.0
+667,infinix,8299,63.0,No, None,helio,Helio G25,Octa Core,2.0,3,64,5000.0,No,6.82,60,2,1,8.0,5.0,512,Android,12.0
+668,sony,82199,89.0,Yes, NFC,snapdragon,Snapdragon 8 Gen1,Octa Core,3.0,8,256,5000.0,Yes,6.1,120,3,1,12.0,12.0,1000,Android,12.0
+669,nubia,49990,84.0,Yes, NFC,snapdragon,Snapdragon  8 Gen1,Octa Core,3.0,8,128,5000.0,Yes,6.67,144,3,1,64.0,16.0,1000,Android,12.0
+670,nokia,11999,71.0,No, None,unisoc,Unisoc  T606,Octa Core,1.6,4,64,5050.0,Yes,6.5,90,3,1,50.0,8.0,512,Android,11.0
+671,xiaomi,29990,82.0,Yes, NFC,snapdragon,Snapdragon 778G,Octa Core,2.4,6,128,4300.0,Yes,6.55,120,3,1,108.0,32.0,1000,Android,12.0
+672,oppo,92249,83.0,Yes, NFC,snapdragon,Snapdragon  888,Octa Core,2.84,8,256,4500.0,Yes,7.1,120,3,1,50.0,32.0,1000,Android,12.0
+673,apple,139900,84.0,Yes, NFC,bionic,Bionic A15,Hexa Core,3.22,6,256,4352.0,Yes,6.7,120,3,1,12.0,12.0,1000,iOS,15.0
+674,vivo,14990,74.0,No, None,helio,Helio G80,Octa Core,2.0,4,128,5000.0,Yes,6.51,60,3,1,50.0,8.0,1000,Android,11.0
+675,oppo,15988,79.0,No, None,snapdragon,Snapdragon 662,Octa Core,2.0,6,128,5000.0,Yes,6.43,60,3,1,48.0,16.0,256,Android,11.0
+676,samsung,11725,76.0,No, None,exynos,Exynos 9611,Octa Core,2.3,4,64,6000.0,Yes,6.4,60,3,1,48.0,20.0,512,Android,11.0
+677,oppo,17994,80.0,No, None,helio,Helio P95,Octa Core,2.2,8,128,4310.0,Yes,6.43,60,4,1,48.0,16.0,256,Android,11.0
+678,oppo,134999,86.0,No, None,snapdragon,Snapdragon 865,Octa Core,2.84,8,256,4000.0,Yes,7.4,60,3,1,64.0,16.0,1000,Android,12.0
+679,oneplus,25595,81.0,Yes, NFC,snapdragon,Snapdragon 690,Octa Core,2.0,6,128,4300.0,Yes,6.49,90,4,1,64.0,16.0,512,Android,10.0
+680,gionee,7499,67.0,No, None,helio,Helio P60,Octa Core,1.99,6,128,4000.0,No,6.2,60,1,1,16.0,13.0,256,Android,10.0
+681,poco,10890,74.0,No, IR Blaster,helio,Helio G80,Octa Core,2.0,6,64,5000.0,Yes,6.53,60,4,1,13.0,8.0,512,Android,10.0
+682,oppo,18990,83.0,No, None,helio,Helio P95,Octa Core,2.2,8,128,4015.0,Yes,6.43,60,2,2,48.0,16.0,256,Android,10.0
+683,samsung,15990,80.0,No, NFC,exynos,Exynos  9611,Octa Core,2.3,4,128,4000.0,Yes,6.4,60,3,1,48.0,32.0,512,Android,9.0
+684,samsung,58999,89.0,No, NFC,exynos,Exynos 9825,Octa Core,2.73,12,256,4300.0,Yes,6.8,60,4,1,12.0,10.0,1000,Android,9.0
+685,vivo,12500,71.0,No, None,helio,Helio P22,Octa Core,2.0,4,64,5000.0,No,6.35,60,3,1,13.0,16.0,256,Android,9.0
+686,vivo,29999,82.0,No, None,snapdragon,Snapdragon  665,Octa Core,2.0,8,128,4500.0,Yes,6.38,60,4,1,48.0,32.0,256,Android,9.0
+687,vivo,31990,86.0,Yes, None,snapdragon,Snapdragon  782G,Octa Core,2.7,8,256,4700.0,Yes,6.67,120,3,1,64.0,32.0,1000,Android,13.0
+688,vivo,29999,86.0,Yes, NFC,dimensity,Dimensity 800U,Octa Core,2.4,8,128,4000.0,Yes,6.44,90,3,1,64.0,44.0,1000,Android,12.0
+689,asus,107990,85.0,Yes, NFC,dimensity,Dimensity 9000 Plus,Octa Core,3.2,16,512,6000.0,Yes,6.78,165,3,1,50.0,12.0,1000,Android,12.0
+690,motorola,31990,84.0,Yes, NFC,snapdragon,Snapdragon 695,Octa Core,2.2,8,128,4020.0,Yes,6.28,120,2,1,64.0,32.0,1000,Android,12.0
+691,xiaomi,48990,87.0,Yes, IR Blaster,dimensity,Dimensity 8100 Ultra,Octa Core,2.85,8,128,5000.0,Yes,6.67,120,3,1,108.0,20.0,1000,Android,12.0
+693,realme,9499,65.0,No, None,tiger,Tiger T612,Octa Core,1.82,4,64,5000.0,No,6.52,60,3,1,13.0,5.0,1000,Android,12.0
+694,huawei,162990,89.0,No, IR Blaster,snapdragon,Snapdragon 888,Octa Core,2.84,8,512,4600.0,Yes,7.8,120,3,1,50.0,10.7,1000,Android,12.0
+695,iqoo,24999,80.0,Yes, None,snapdragon,Snapdragon  7 Gen1,Octa Core,2.36,6,128,5000.0,Yes,6.62,144,3,1,50.0,16.0,1000,Android,12.0
+696,apple,82990,72.0,No, NFC,bionic,Bionic  A16,Hexa Core,2.432792990142388,6,128,3285.0,Yes,6.06,60,2,1,50.0,13.0,1000,iOS,15.0
+697,infinix,15999,79.0,No, None,helio,Helio G96,Octa Core,2.05,8,128,5000.0,Yes,6.95,120,3,1,50.0,16.0,2000,Android,11.0
+698,tecno,8999,64.0,No, None,helio,Helio A25,Octa Core,1.8,4,64,5000.0,No,6.52,60,2,1,16.0,8.0,256,Android,11.0
+699,oppo,17990,73.0,Yes, None,dimensity,Dimensity 700 5G,Octa Core,2.2,6,128,5000.0,No,6.5,60,2,1,13.0,8.0,1000,Android,11.0
+700,vivo,82990,75.0,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,12,256,4500.0,Yes,6.78,120,4,1,50.0,32.0,1000,Android,11.0
+701,xiaomi,12999,77.0,No, IR Blaster,helio,Helio G88,Octa Core,2.0,6,128,6000.0,Yes,6.5,90,4,1,50.0,8.0,512,Android,11.0
+702,huawei,29990,83.0,No, NFC,snapdragon,Snapdragon  778G,Octa Core,2.4,8,128,4300.0,Yes,6.57,120,4,1,50.0,32.0,1000,HarmonyOS,2.0
+703,tecno,6999,83.0,No, None,spreadtrum,Spreadtrum  SC7731,Quad Core,1.3,1,16,4000.0,No,6.1,60,2,1,5.0,5.0,1000,Android,11.0
+704,huawei,60999,83.0,No, IR Blaster,snapdragon,Snapdragon 888,Octa Core,2.84,8,256,4360.0,Yes,6.6,120,4,1,50.0,13.0,256,HarmonyOS,2.0
+705,xiaomi,27990,83.0,Yes, IR Blaster,dimensity,Dimensity  8100,Octa Core,2.85,8,128,5500.0,Yes,6.67,120,3,1,48.0,20.0,1000,Android,12.0
+706,nokia,5249,81.5,No, None,unisoc,Unisoc  SC9863A,Octa Core,1.6,2,16,3000.0,No,5.45,60,1,1,5.0,5.0,256,Android,11.0
+707,realme,14999,80.0,Yes, None,snapdragon,Snapdragon  750G,Octa Core,2.2,6,128,5000.0,Yes,6.5,120,3,1,48.0,16.0,1000,Android,11.0
+708,oppo,44990,87.0,Yes, NFC,snapdragon,Snapdragon 870,Octa Core,3.2,8,128,4500.0,Yes,6.55,90,4,1,50.0,32.0,1000,Android,11.0
+709,motorola,22490,87.0,Yes, NFC,snapdragon,Snapdragon 870,Octa Core,3.2,6,128,5000.0,Yes,6.7,90,2,2,64.0,16.0,1000,Android,11.0
+710,oppo,50990,81.0,Yes, NFC,snapdragon,Snapdragon  888,Octa Core,2.84,12,256,4500.0,Yes,6.7,120,4,1,50.0,32.0,1000,Android,11.0
+711,poco,11499,75.0,No, IR Blaster,snapdragon,Snapdragon 662,Octa Core,2.0,6,64,6000.0,Yes,6.53,60,3,1,48.0,8.0,512,Android,10.0
+712,itel,5990,79.5,No, None,unisoc,Unisoc SC7731E,Quad Core,1.3,1,16,4000.0,No,6.5,60,3,1,8.0,8.0,32,Android,10.0
+713,vivo,27000,84.0,Yes, None,snapdragon,Snapdragon 765G,Octa Core,2.4,8,128,4000.0,Yes,6.44,60,3,2,64.0,44.0,1000,Android,10.0
+714,xiaomi,29999,86.0,Yes, IR Blaster,snapdragon,Snapdragon 865,Octa Core,2.84,8,128,5000.0,Yes,6.67,144,3,1,108.0,20.0,1000,Android,10.0
+715,vivo,27990,84.0,No, None,snapdragon,Snapdragon  712,Octa Core,2.3,8,256,4500.0,Yes,6.44,60,2,2,48.0,32.0,512,Android,10.0
+716,samsung,74999,89.0,Yes, NFC,exynos,Exynos  990,Octa Core,2.73,8,128,4000.0,Yes,6.2,60,3,1,64.0,10.0,1000,Android,10.0
+717,vivo,9990,72.0,No, None,snapdragon,Snapdragon  675,Octa Core,2.0,4,64,5000.0,Yes,6.53,60,3,1,16.0,16.0,256,Android,9.0
+718,oppo,19990,82.0,No, None,snapdragon,Snapdragon  730G,Octa Core,2.2,8,128,4000.0,Yes,6.4,60,4,1,64.0,32.0,256,Android,9.0
+719,realme,13279,75.0,No, None,snapdragon,Snapdragon 712,Octa Core,2.3,4,64,4000.0,Yes,6.4,60,4,1,64.0,16.0,256,Android,9.0
+720,vivo,11000,68.0,No, None,helio,Helio  P22,Octa Core,2.0,3,64,5000.0,No,6.35,60,3,1,13.0,8.0,256,Android,9.0
+721,xiaomi,12999,78.0,No, None,snapdragon,Snapdragon 845,Octa Core,2.8,6,128,4000.0,Yes,6.18,60,2,1,12.0,20.0,256,Android,8.1
+722,poco,7299,61.0,No, None,helio,Helio A22,Quad Core,2.0,3,32,5000.0,Yes,6.52,60,2,1,8.0,5.0,512,Android,12.0
+723,xiaomi,54990,86.0,Yes, IR Blaster,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,8,128,5000.0,Yes,6.73,120,3,1,50.0,20.0,1000,Android,13.0
+724,vivo,49990,77.0,Yes, NFC,dimensity,Dimensity 9200,Octa Core,2.432792990142388,12,256,5000.0,Yes,6.67,120,3,1,50.0,32.0,1000,Android,13.0
+725,honor,54990,68.5,Yes, NFC,snapdragon,Snapdragon 8 Gen1,Octa Core,3.0,12,256,4500.0,Yes,6.78,120,3,1,200.0,50.0,1000,Android,12.0
+726,apple,49990,60.0,Yes, NFC,bionic,Bionic  A15,Hexa Core,3.22,4,64,4755.525933609959,No,6.1,60,1,1,12.0,10.8,1000,iOS,16.0
+727,tecno,15499,71.0,No, None,dimensity,Dimensity 810 5G,Octa Core,2.4,4,128,6000.0,Yes,6.8,120,2,1,50.0,8.0,1000,Android,12.0
+728,apple,169900,78.0,Yes, NFC,bionic,Bionic  A16,Hexa Core,2.432792990142388,6,512,4323.0,Yes,6.7,120,3,1,48.0,12.0,1000,iOS,16.0
+729,vivo,18990,80.0,Yes, None,dimensity,Dimensity 1300,Octa Core,3.0,8,128,6000.0,Yes,6.58,120,2,1,50.0,16.0,1000,Android,12.0
+730,motorola,16999,76.0,Yes, NFC,snapdragon,Snapdragon 695,Octa Core,2.2,4,64,5000.0,Yes,6.6,90,3,1,50.0,16.0,1000,Android,12.0
+731,motorola,34999,86.0,Yes, NFC,snapdragon,Snapdragon 7 Gen1,Octa Core,2.36,8,128,4200.0,Yes,6.5,144,3,1,50.0,32.0,1000,Android,12.0
+732,vivo,82990,87.5,Yes, IR Blaster,snapdragon,Snapdragon 8 Gen1,Octa Core,3.0,12,512,5000.0,Yes,7.0,120,4,1,50.0,16.0,1000,Android,12.0
+733,realme,46999,89.0,Yes, NFC,snapdragon,Snapdragon 8 Gen1,Octa Core,3.0,12,256,5000.0,Yes,6.7,120,3,1,50.0,32.0,1000,Android,12.0
+734,honor,16999,76.0,No, None,snapdragon,Snapdragon  680,Octa Core,2.4,6,128,4000.0,Yes,6.7,90,4,1,64.0,16.0,1000,Android,11.0
+735,samsung,11499,69.0,No, None,unisoc,Unisoc  T606,Octa Core,1.6,4,64,5000.0,Yes,6.5,60,2,1,48.0,5.0,1000,Android,11.0
+736,vivo,15990,81.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,8,128,5000.0,Yes,6.58,90,3,1,50.0,16.0,1000,Android,12.0
+737,xiaomi,24990,83.0,Yes, IR Blaster,dimensity,Dimensity  920 5G,Octa Core,2.5,8,128,5160.0,Yes,6.67,120,3,1,108.0,16.0,1000,Android,11.0
+738,oppo,79990,72.0,Yes, NFC,snapdragon,Snapdragon 8 Gen1,Octa Core,3.0,8,256,5000.0,Yes,6.7,120,3,1,50.0,32.0,1000,Android,12.0
+739,tecno,6249,61.0,No, None,octa,Exynos,Octa Core,2.432792990142388,2,32,5000.0,No,6.51,60,2,1,13.0,8.0,256,Android,11.0
+740,vivo,12499,69.0,No, None,snapdragon,Snapdragon  680,Octa Core,2.4,3,64,5000.0,Yes,6.453319502074689,60,2,1,13.0,8.0,1000,Android,12.0
+741,xiaomi,6499,61.0,No, None,helio,Helio G25,Octa Core,2.0,2,32,5000.0,No,6.53,60,1,1,13.0,5.0,512,Android,11.0
+742,apple,179900,86.0,Yes, NFC,bionic,Bionic A15,Hexa Core,3.22,6,1000,4352.0,Yes,6.7,120,3,1,12.0,12.0,1000,iOS,15.0
+743,vivo,11990,68.0,No, None,snapdragon,Snapdragon  439,Octa Core,2.0,3,64,5000.0,No,6.51,60,3,1,13.0,8.0,1000,Android,11.0
+744,vivo,26990,82.0,No, None,helio,Helio G96,Octa Core,2.05,8,128,4050.0,Yes,6.44,60,3,1,64.0,50.0,1000,Android,11.0
+745,samsung,13499,76.0,No, None,helio,Helio G80,Octa Core,2.0,6,128,6000.0,No,6.4,90,4,1,48.0,13.0,1000,Android,11.0
+746,xiaomi,75999,68.0,Yes, IR Blaster,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,12,256,4800.0,Yes,6.73,120,3,1,50.0,20.0,1000,Android,12.0
+747,micromax,5999,60.0,No, None,tiger,Tiger T610,Octa Core,1.8,3,32,5000.0,No,6.52,60,1,1,8.0,5.0,256,Android,11.0
+748,samsung,8499,67.0,No, None,helio,Helio P35,Octa Core,2.3,3,32,5000.0,Yes,6.5,60,3,1,13.0,5.0,1000,Android,11.0
+749,oppo,11990,71.0,No, None,helio,Helio P35,Octa Core,2.3,4,128,5000.0,Yes,6.51,60,3,1,13.0,16.0,256,Android,10.0
+750,xiaomi,10990,77.0,Yes, IR Blaster,dimensity,Dimensity 700 5G,Octa Core,2.2,4,128,5000.0,Yes,6.43,90,4,1,48.0,13.0,1000,Android,10.0
+751,xiaomi,109990,78.5,Yes, IR Blaster,snapdragon,Snapdragon  888,Octa Core,2.84,12,256,5020.0,Yes,8.01,90,3,1,108.0,20.0,1000,Android,12.0
+752,realme,16999,80.0,Yes, NFC,dimensity,Dimensity 700 5G,Octa Core,2.2,6,128,5000.0,Yes,6.5,90,3,1,48.0,16.0,1000,Android,11.0
+753,oppo,12199,70.0,No, None,helio,Helio P35,Octa Core,2.3,4,64,5000.0,Yes,6.51,60,3,1,13.0,16.0,256,Android,10.0
+754,oppo,11490,72.0,No, None,helio,Helio P35,Octa Core,2.3,4,128,4230.0,No,6.52,60,3,1,13.0,8.0,256,Android,10.0
+755,xiaomi,11499,74.0,No, IR Blaster,snapdragon,Snapdragon  662,Octa Core,2.0,4,64,6000.0,Yes,6.53,60,4,1,48.0,8.0,512,Android,10.0
+756,samsung,59450,88.0,Yes, NFC,exynos,Exynos 2100,Octa Core,2.9,8,128,4800.0,Yes,6.7,120,3,1,64.0,10.0,1000,Android,10.0
+757,poco,12799,76.0,No, IR Blaster,snapdragon,Snapdragon 720G,Octa Core,2.3,4,64,5000.0,Yes,6.67,60,4,1,48.0,16.0,512,Android,10.0
+758,samsung,83000,88.0,No, NFC,exynos,Exynos 990,Octa Core,2.73,8,128,4500.0,Yes,6.7,120,4,1,64.0,10.0,1000,Android,10.0
+759,realme,14490,80.0,No, None,snapdragon,Snapdragon 720G,Octa Core,2.3,6,64,4300.0,Yes,6.6,90,2,2,64.0,16.0,256,Android,10.0
+760,huawei,82990,72.0,Yes, NFC,kirin,Kirin 990,Octa Core,2.86,8,256,4200.0,Yes,6.58,90,2,1,50.0,32.0,256,Android,10.0
+761,vivo,9490,64.0,No, None,snapdragon,Snapdragon 439,Octa Core,2.0,3,32,5000.0,No,6.35,60,2,1,13.0,8.0,256,Android,9.0
+762,vivo,25000,78.0,No, None,snapdragon,Snapdragon 675,Octa Core,2.0,8,128,3700.0,Yes,6.39,60,3,1,48.0,32.0,256,Android,9.0
+763,vivo,15000,65.0,No, None,snapdragon,Snapdragon 439,Octa Core,1.95,4,64,4030.0,No,6.22,60,2,1,13.0,20.0,256,Android,8.1
+764,vivo,20990,70.0,No, None,helio,Helio P60,Octa Core,2.0,4,128,3315.0,No,6.3,60,2,1,16.0,25.0,256,Android,8.1
+765,samsung,34999,78.0,No, NFC,exynos,Exynos 9810,Octa Core,2.8,6,128,3500.0,Yes,6.2,60,2,1,12.0,8.0,512,Android,8.0
+766,realme,29999,80.0,Yes, None,snapdragon,Snapdragon 8 Gen1,Octa Core,3.0,8,128,5000.0,Yes,6.73,144,3,1,50.0,16.0,1000,Android,13.0
+767,vivo,11999,67.0,Yes, None,dimensity,Dimensity 700,Octa Core,2.0,4,128,6000.0,Yes,6.51,60,2,1,13.0,5.0,1000,Android,13.0
+768,samsung,12999,72.0,No, None,helio,Helio P35,Octa Core,2.3,4,128,5000.0,Yes,6.5,60,2,1,50.0,5.0,1000,Android,12.0
+769,leitz,124990,89.0,Yes, NFC,snapdragon,Snapdragon  8 Gen1,Octa Core,3.0,12,256,5000.0,Yes,6.6,240,2,1,47.2,12.6,1000,Android,12.0
+770,xiaomi,28999,85.0,Yes, IR Blaster,dimensity,Dimensity  8200,Octa Core,3.1,8,128,5080.0,Yes,6.67,120,3,1,50.0,32.0,1000,Android,13.0
+771,infinix,12999,77.0,No, None,helio,Helio G96,Octa Core,2.05,8,128,5000.0,Yes,6.78,60,2,1,50.0,8.0,1000,Android,12.0
+772,realme,28499,82.0,Yes, None,snapdragon,Snapdragon 870,Octa Core,3.2,8,256,5000.0,Yes,6.62,120,3,1,64.0,16.0,1000,Android,12.0
+773,apple,104999,83.0,Yes, NFC,bionic,Bionic A15,Hexa Core,3.22,6,512,4325.0,Yes,6.7,60,2,1,12.0,12.0,1000,iOS,16.0
+774,apple,172999,77.0,Yes, NFC,bionic,Bionic  A16,Hexa Core,2.432792990142388,6,1000,3200.0,Yes,6.1,120,3,1,48.0,12.0,1000,iOS,16.0
+775,xiaomi,17990,79.0,Yes, IR Blaster,snapdragon,Snapdragon 4 Gen 1,Octa Core,2.0,6,128,5100.0,Yes,6.73,120,2,1,64.0,16.0,1000,Android,13.0
+776,xiaomi,13774,76.0,No, IR Blaster,helio,Helio G99,Octa Core,2.2,6,128,5000.0,Yes,6.58,90,3,1,50.0,8.0,512,Android,12.0
+777,nokia,8999,64.0,No, None,unisoc,Unisoc  SC9863A,Octa Core,1.6,4,64,5050.0,No,6.52,60,2,1,13.0,5.0,1000,Android,11.0
+778,oneplus,18990,75.0,Yes, NFC,dimensity,Dimensity 810 5G,Octa Core,2.4,4,64,5000.0,Yes,6.56,90,2,1,48.0,16.0,1000,Android,12.0
+779,tecno,14999,77.0,No, NFC,helio,Helio  G85,Octa Core,2.0,6,128,5000.0,Yes,6.8,90,3,1,48.0,32.0,1000,Android,12.0
+780,realme,7999,61.0,No, None,tiger,Tiger T612,Octa Core,1.82,3,32,5000.0,Yes,6.5,60,1,1,8.0,5.0,1000,Android,11.0
+781,xiaomi,39999,85.0,Yes, IR Blaster,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,5000.0,Yes,6.67,144,3,1,108.0,20.0,1000,Android,12.0
+782,oppo,11990,67.0,No, None,helio,Helio G35,Octa Core,2.3,3,64,5000.0,Yes,6.56,60,2,1,13.0,8.0,1000,Android,12.0
+783,infinix,12999,77.0,No, None,helio,Helio G88,Octa Core,2.0,6,128,5000.0,Yes,6.7,60,3,1,50.0,16.0,512,Android,11.0
+784,samsung,54999,77.0,Yes, NFC,octa,Exynos,Octa Core,2.432792990142388,8,128,4500.0,Yes,6.5,60,4,1,64.0,32.0,1000,Android,12.0
+785,samsung,24990,72.0,Yes, None,octa,Exynos,Octa Core,2.432792990142388,6,128,6000.0,Yes,6.7,60,3,1,64.0,32.0,1000,Android,12.0
+786,vivo,59999,88.0,Yes, None,dimensity,Dimensity  9000,Octa Core,3.05,12,256,4500.0,Yes,6.78,120,3,1,50.0,32.0,1000,Android,12.0
+787,poco,19999,72.0,Yes, None,snapdragon,Snapdragon 778G+,Octa Core,2.432792990142388,6,128,5000.0,Yes,6.67,120,4,1,64.0,32.0,1000,Android,12.0
+788,infinix,16999,79.0,No, None,helio,Helio G96,Octa Core,2.05,8,128,5000.0,Yes,6.7,60,3,1,50.0,16.0,1000,Android,12.0
+789,samsung,14999,60.0,No, None,exynos,Exynos 1330,Octa Core,2.432792990142388,4,64,6000.0,No,6.5,60,3,1,48.0,8.0,512,Android,13.0
+790,vivo,29990,76.0,Yes, None,snapdragon,Snapdragon  778G+,Octa Core,2.432792990142388,8,128,4500.0,Yes,6.44,90,3,1,50.0,16.0,1000,Android,12.0
+791,xiaomi,13990,69.0,Yes, IR Blaster,dimensity,Dimensity 700 5G,Octa Core,2.2,4,128,5000.0,Yes,6.58,90,2,1,50.0,5.0,1000,Android,11.0
+792,xiaomi,17999,81.0,No, IR Blaster,helio,Helio  G96,Octa Core,2.05,6,128,5000.0,Yes,6.67,120,4,1,108.0,16.0,1000,Android,11.0
+793,realme,11399,73.0,No, None,tiger,Tiger T612,Octa Core,1.82,4,64,5000.0,Yes,6.6,60,3,1,50.0,8.0,1000,Android,11.0
+794,vivo,15499,74.0,No, None,snapdragon,Snapdragon 680,Octa Core,2.4,4,128,5000.0,Yes,6.51,90,3,1,50.0,8.0,1000,Android,11.0
+795,gionee,6999,75.5,No, None,tiger,Tiger  T310,Quad Core,2.0,3,32,4800.0,No,6.8,60,1,1,13.0,5.0,1000,Android,10.0
+796,xiaomi,12499,77.0,No, IR Blaster,snapdragon,Snapdragon 720G,Octa Core,2.3,4,128,5020.0,Yes,6.67,60,4,1,48.0,16.0,512,Android,10.0
+797,apple,91999,80.0,Yes, NFC,bionic,Bionic A15,Hexa Core,3.22,4,512,3240.0,Yes,6.1,60,2,1,12.0,12.0,1000,iOS,15.0
+798,infinix,9690,71.0,No, None,helio,Helio G88,Octa Core,2.0,4,64,5000.0,No,6.78,90,3,1,50.0,8.0,256,Android,11.0
+799,realme,32990,85.0,Yes, NFC,snapdragon,Snapdragon  870,Octa Core,3.2,8,128,4500.0,Yes,6.55,120,3,1,50.0,32.0,1000,Android,11.0
+800,xiaomi,42990,87.0,Yes, IR Blaster,snapdragon,Snapdragon 8 Gen1,Octa Core,3.0,8,128,4500.0,Yes,6.28,120,3,1,50.0,32.0,1000,Android,12.0
+801,cat,14999,84.5,No, None,qualcomm,Qualcomm 215,Quad Core,1.3,2,16,2000.0,No,4.0,60,1,1,5.0,2.0,1000,Android,12.0
+802,xiaomi,18699,82.0,No, IR Blaster,snapdragon,Snapdragon 732G,Octa Core,2.3,8,128,4250.0,Yes,6.55,90,3,1,64.0,16.0,512,Android,11.0
+803,realme,10990,76.0,Yes, None,dimensity,Dimensity 700 5G,Octa Core,2.2,4,128,5000.0,Yes,6.5,60,3,1,48.0,16.0,1000,Android,11.0
+804,xiaomi,30990,85.0,Yes, IR Blaster,snapdragon,Snapdragon 888,Octa Core,2.84,8,128,4520.0,Yes,6.67,120,3,1,108.0,20.0,1000,Android,11.0
+805,lenovo,59999,89.0,Yes, NFC,snapdragon,Snapdragon  888,Octa Core,2.84,16,512,5000.0,Yes,6.5,144,2,1,64.0,20.0,1000,Android,10.0
+806,samsung,23999,83.0,No, NFC,exynos,Exynos 9825,Octa Core,2.73,6,128,7000.0,Yes,6.71,60,4,1,64.0,32.0,1000,Android,11.0
+807,realme,9999,69.0,Yes, None,dimensity,Dimensity 720,Octa Core,2.0,4,128,5000.0,Yes,6.5,60,3,1,13.0,8.0,1000,Android,10.0
+808,apple,119900,80.0,Yes, NFC,bionic,Bionic A14,Hexa Core,3.1,6,256,4755.525933609959,No,6.1,60,3,1,12.0,12.0,1000,iOS,14.0
+809,xiaomi,9299,67.0,No, None,helio,Helio G25,Octa Core,2.0,4,128,5000.0,Yes,6.53,60,1,1,13.0,5.0,512,Android,10.0
+810,realme,12989,77.0,No, None,helio,Helio   G90T,Octa Core,2.05,6,64,4300.0,Yes,6.5,90,4,1,64.0,16.0,256,Android,10.0
+811,samsung,4999,80.0,No, None,(28,Mediatek MT6739,Quad Core,1.5,1,16,3000.0,No,5.3,60,1,1,8.0,5.0,1000,Android,10.0
+812,oppo,29990,83.0,Yes, None,snapdragon,Snapdragon  765G,Octa Core,2.4,8,128,4300.0,Yes,6.43,60,4,1,64.0,32.0,1000,Android,11.0
+813,oppo,12490,72.0,No, None,helio,Helio P35,Octa Core,2.3,6,128,4230.0,No,6.5,60,3,1,12.0,8.0,256,Android,9.0
+814,sony,27999,75.0,No, NFC,snapdragon,Snapdragon  665,Octa Core,2.0,4,128,3600.0,Yes,6.0,90,3,1,12.0,8.0,1000,Android,10.0
+815,vivo,8199,78.0,No, None,helio,Helio P22,Octa Core,2.0,2,32,4030.0,No,6.22,60,1,1,13.0,5.0,256,Android,8.1
+816,huawei,21990,81.0,No, None,kirin,Kirin  810,Octa Core,2.2,8,128,4200.0,Yes,6.4,60,4,1,48.0,16.0,256,Android,10.0
+817,vivo,20000,73.0,No, None,helio,Helio  P65,Octa Core,2.0,4,128,5000.0,Yes,6.53,60,3,1,16.0,16.0,256,Android,9.0
+818,vivo,11990,74.0,No, None,snapdragon,Snapdragon  675,Octa Core,2.0,6,64,5000.0,Yes,6.53,60,3,1,16.0,16.0,256,Android,9.0
+819,xiaomi,11989,75.0,No, IR Blaster,helio,Helio G85,Octa Core,2.0,4,64,5020.0,Yes,6.53,60,4,1,48.0,13.0,512,Android,10.0
+820,xiaomi,11490,66.0,No, IR Blaster,snapdragon,Snapdragon 439,Octa Core,2.0,4,64,5000.0,Yes,6.22,60,2,1,12.0,8.0,512,Android,9.0
+821,motorola,11490,68.0,No, None,helio,Helio P70,Octa Core,2.0,4,64,4000.0,Yes,6.2,60,3,1,13.0,8.0,512,Android,9.0
+822,google,15999,67.0,No, NFC,qualcomm,Qualcomm Snapdragon 670,Octa Core,2.0,4,64,3700.0,Yes,6.0,60,1,1,12.2,8.0,1000,Android,9.0
+823,samsung,17990,69.0,No, None,samsung,Samsung Exynos 7885,Octa Core,2.2,4,64,3100.0,Yes,5.9,60,2,1,16.0,25.0,512,Android,9.0
+824,samsung,78990,86.0,Yes, NFC,exynos,Exynos 9820,Octa Core,2.7,8,256,4500.0,Yes,6.7,60,3,1,16.0,10.0,512,Android,9.0
+825,huawei,10949,66.0,No, None,kirin,Kirin 659,Octa Core,2.36,4,64,3000.0,No,5.84,60,2,1,13.0,16.0,256,Android,8.0
+826,xiaomi,10300,65.0,No, None,qualcomm,Qualcomm Snapdragon 625,Octa Core,2.0,4,64,4100.0,No,5.5,60,1,1,13.0,5.0,128,Android,6.0
+827,doogee,45999,88.0,Yes, None,dimensity,Dimensity 1080,Octa Core,2.6,12,256,22000.0,Yes,6.58,120,3,1,108.0,32.0,2000,Android,12.0
+828,huawei,21990,63.0,No, None,octa,Exynos,Octa Core,2.432792990142388,4,64,5000.0,Yes,6.453319502074689,60,3,1,50.0,5.0,1000,Android,12.0
+829,iqoo,19990,76.0,Yes, None,snapdragon,Snapdragon  7 Gen2,Octa Core,2.432792990142388,8,128,5000.0,Yes,6.67,120,3,1,64.0,16.0,1000,Android,13.0
+830,vivo,32990,84.0,Yes, None,snapdragon,Snapdragon  7 Gen1,Octa Core,2.4,8,256,5000.0,Yes,6.67,120,3,1,64.0,32.0,1000,Android,13.0
+831,poco,14499,77.0,No, IR Blaster,helio,Helio G99,Octa Core,2.2,6,128,5000.0,Yes,6.58,90,3,1,50.0,8.0,512,Android,12.0
+832,tecno,13990,67.0,No, None,helio,Helio G85,Octa Core,2.0,6,128,7000.0,No,6.82,90,2,1,16.0,8.0,512,Android,12.0
+833,vivo,10490,67.0,No, None,helio,Helio P35,Octa Core,2.3,3,64,5000.0,No,6.51,60,2,1,13.0,8.0,1000,Android,12.0
+834,huawei,29990,82.0,No, None,snapdragon,Snapdragon 778G,Octa Core,2.4,8,128,4000.0,Yes,6.67,120,3,1,50.0,60.0,1000,HarmonyOS,12.0
+835,huawei,22990,82.0,No, NFC,snapdragon,Snapdragon  680,Octa Core,2.4,8,128,5000.0,Yes,6.7,90,4,1,50.0,8.0,1000,EMUI,12.0
+836,samsung,47990,80.0,Yes, None,dimensity,Dimensity 1300,Octa Core,3.0,8,128,5000.0,Yes,6.7,60,3,1,48.0,16.0,1000,Android,12.0
+837,infinix,19999,84.0,No, None,helio,Helio  G96,Octa Core,2.05,8,128,4500.0,Yes,6.7,120,3,1,108.0,16.0,256,Android,12.0
+838,oneplus,29999,83.0,Yes, NFC,snapdragon,Snapdragon  7 Gen1,Octa Core,2.36,8,128,4500.0,Yes,6.43,120,3,1,50.0,32.0,1000,Android,12.0
+839,realme,11879,74.0,No, None,tiger,Tiger T612,Octa Core,1.82,4,128,5000.0,Yes,6.6,60,3,1,50.0,8.0,1000,Android,11.0
+840,oneplus,28990,84.0,Yes, NFC,dimensity,Dimensity 8100 Max,Octa Core,2.85,8,128,4500.0,Yes,6.7,120,3,1,50.0,16.0,1000,Android,12.0
+841,iqoo,39990,85.0,Yes, None,snapdragon,Snapdragon  888+,Octa Core,2.9,12,256,4350.0,Yes,6.56,120,3,1,48.0,16.0,1000,Android,12.0
+842,xiaomi,15999,78.0,Yes, IR Blaster,dimensity,Dimensity 720,Octa Core,2.0,6,64,5000.0,Yes,6.52,90,3,1,64.0,16.0,512,Android,12.0
+843,oppo,22990,82.0,Yes, None,snapdragon,Snapdragon 695,Octa Core,2.2,8,256,4500.0,Yes,6.43,60,2,1,48.0,16.0,1000,Android,11.0
+844,royole,149999,87.0,Yes, None,snapdragon,Snapdragon 888,Octa Core,2.84,8,128,3360.0,No,7.2,60,3,1,64.0,32.0,1000,Android,12.0
+845,tecno,11499,75.0,No, NFC,helio,Helio  G88,Octa Core,2.0,4,128,5000.0,Yes,6.8,90,3,1,48.0,16.0,1000,Android,11.0
+846,tecno,22999,84.0,No, None,helio,Helio G95,Octa Core,2.05,8,256,5000.0,Yes,6.7,120,2,2,50.0,48.0,1000,Android,11.0
+847,tecno,7999,70.0,No, None,helio,Helio G35,Octa Core,2.3,4,64,5000.0,No,6.6,60,2,1,50.0,8.0,1000,Android,11.0
+848,realme,31999,82.0,Yes, NFC,snapdragon,Snapdragon 870,Octa Core,3.2,8,128,5000.0,Yes,6.62,120,3,1,64.0,16.0,1000,Android,11.0
+849,sony,30990,78.0,Yes, NFC,snapdragon,Snapdragon  690,Octa Core,2.0,6,64,4500.0,Yes,6.0,60,3,1,12.0,8.0,1000,Android,11.0
+850,realme,7999,64.0,No, None,helio,Helio G35,Octa Core,2.3,3,32,6000.0,No,6.52,60,3,1,13.0,5.0,256,Android,11.0
+851,tecno,10999,74.0,No, None,helio,Helio G85,Octa Core,2.0,4,64,7000.0,Yes,6.95,60,4,1,48.0,8.0,256,Android,11.0
+852,poco,14990,79.0,Yes, None,dimensity,Dimensity 700 5G,Octa Core,2.2,6,128,5000.0,Yes,6.67,120,3,1,50.0,16.0,1000,Android,12.0
+853,motorola,14499,77.0,No, None,snapdragon,Snapdragon  732G,Octa Core,2.3,4,64,6000.0,Yes,6.78,120,3,1,64.0,16.0,256,Android,11.0
+854,realme,19999,83.0,Yes, None,dimensity,Dimensity 800U,Octa Core,2.4,8,128,5000.0,Yes,6.5,120,3,1,48.0,16.0,256,Android,10.0
+855,itel,3999,83.33333333333333,No, None,spreadtrum,Spreadtrum  SC9832E,Quad Core,1.4,1,8,2400.0,No,5.0,60,1,1,5.0,2.0,1000,Android,10.0
+856,samsung,101999,83.66666666666667,Yes, NFC,exynos,Exynos  2100,Octa Core,2.9,12,128,5000.0,Yes,6.8,120,4,1,108.0,40.0,1000,Android,10.0
+857,oppo,38700,84.0,Yes, None,dimensity,Dimensity 1000+,Octa Core,2.6,8,128,4350.0,Yes,6.53,90,4,1,64.0,32.0,1000,Android,11.0
+858,oneplus,19999,73.0,No, None,snapdragon,Snapdragon 665,Octa Core,2.0,4,64,4500.0,Yes,6.3,60,4,1,48.0,13.0,256,Android,10.0
+859,samsung,10999,72.0,No, None,exynos,Exynos  850,Octa Core,2.0,4,64,6000.0,Yes,6.5,90,4,1,48.0,8.0,1000,Android,11.0
+860,oneplus,16990,68.0,No, None,snapdragon,Snapdragon 460,Octa Core,1.8,4,64,5000.0,Yes,6.52,90,3,1,13.0,8.0,256,Android,10.0
+861,apple,55999,75.0,Yes, NFC,bionic,Bionic A14,Hexa Core,3.1,4,256,4755.525933609959,No,5.4,60,2,1,12.0,12.0,1000,iOS,14.0
+862,apple,67999,76.0,Yes, NFC,bionic,Bionic A14,Hexa Core,3.1,4,256,4755.525933609959,No,6.1,60,2,1,12.0,12.0,1000,iOS,14.0
+863,oppo,9999,66.0,No, None,helio,Helio P35,Octa Core,2.3,3,32,4230.0,No,6.52,60,3,1,13.0,5.0,256,Android,10.0
+864,xiaomi,14439,77.0,No, IR Blaster,snapdragon,Snapdragon 720G,Octa Core,2.3,4,128,5020.0,Yes,6.67,60,4,1,48.0,16.0,512,Android,10.0
+865,oppo,9990,64.0,No, None,helio,Helio P35,Octa Core,1.8,3,32,4230.0,No,6.22,60,2,1,13.0,5.0,256,Android,9.0
+866,realme,24999,85.0,Yes, NFC,snapdragon,Snapdragon 865,Octa Core,2.84,8,128,4200.0,Yes,6.44,90,2,2,64.0,32.0,1000,Android,10.0
+867,samsung,85990,86.5,Yes, NFC,exynos,Exynos 990,Octa Core,2.73,8,128,4500.0,Yes,6.7,60,4,1,64.0,10.0,1000,Android,10.0
+868,xiaomi,16999,78.0,No, IR Blaster,helio,Helio  G90T,Octa Core,2.05,6,64,4500.0,Yes,6.53,60,4,1,64.0,20.0,512,Android,9.0
+869,realme,8999,70.0,No, None,helio,Helio P70,Octa Core,2.1,2,16,4000.0,No,6.2,60,2,1,13.0,8.0,256,Android,8.1
+870,oppo,15990,62.0,No, None,helio,Helio P23,Octa Core,2.5,3,32,3200.0,No,6.0,60,1,1,13.0,16.0,1000,Android,7.1
+871,lyf,3890,68.5,No, None,snapdragon,Snapdragon MSM8939,Octa Core,1.5,3,32,2500.0,No,5.0,60,1,1,13.0,13.0,64,Android,5.1
+872,apple,84990,75.0,Yes, NFC,bionic,Bionic A16,Hexa Core,2.432792990142388,8,128,4532.0,Yes,6.71,120,2,1,12.0,12.0,1000,iOS,16.0
+873,vivo,21999,78.0,Yes, NFC,dimensity,Dimensity 700 5G,Octa Core,2.2,4,128,5000.0,Yes,6.58,60,3,1,50.0,8.0,1000,Android,12.0
+874,lava,8999,66.0,No, None,helio,Helio G37,Octa Core,2.3,4,64,5000.0,No,6.5,60,3,1,13.0,8.0,256,Android,12.0
+875,tecno,20999,79.0,Yes, NFC,dimensity,Dimensity  700 5G,Octa Core,2.2,6,128,5000.0,Yes,6.83,120,3,1,50.0,16.0,1000,Android,13.0
+876,oppo,32990,84.0,Yes, NFC,dimensity,Dimensity 1300,Octa Core,3.0,8,128,4500.0,Yes,6.43,90,3,1,50.0,32.0,1000,Android,12.0
+877,motorola,9022,70.0,No, None,helio,Helio G37,Octa Core,2.3,4,64,5000.0,Yes,6.5,90,2,1,16.0,8.0,1000,Android,12.0
+878,xiaomi,8399,61.0,No, None,helio,Helio A22,Quad Core,2.0,3,32,5000.0,Yes,6.52,60,2,1,8.0,5.0,512,Android,12.0
+879,infinix,9999,64.0,No, None,helio,Helio G25,Octa Core,2.0,3,64,5000.0,No,6.6,60,2,1,13.0,8.0,1000,Android,12.0
+880,tecno,8390,63.0,No, None,helio,Helio G37,Octa Core,2.3,3,64,5000.0,No,6.6,90,2,1,13.0,8.0,256,Android,12.0
+881,zte,19999,82.0,Yes, NFC,snapdragon,Snapdragon 870,Octa Core,3.2,6,128,4200.0,Yes,6.9,120,4,1,50.0,16.0,1000,Android,12.0
+882,honor,13999,71.0,No, None,helio,Helio G25,Octa Core,2.0,4,64,5000.0,Yes,6.453319502074689,60,3,1,50.0,5.0,1000,Android,12.0
+883,xiaomi,29999,85.0,Yes, IR Blaster,snapdragon,Snapdragon 7 Gen1,Octa Core,2.4,8,128,4500.0,Yes,6.453319502074689,60,3,2,50.0,32.0,1000,Android,12.0
+884,tcl,8990,60.0,No, None,helio,Helio G25,Octa Core,2.0,3,32,3000.0,Yes,6.0,60,1,1,13.0,5.0,1000,Android,12.0
+885,samsung,163980,68.66666666666667,Yes, NFC,snapdragon,Snapdragon  8+ Gen1,Octa Core,3.2,12,1000,4400.0,Yes,7.6,120,3,2,50.0,10.0,1000,Android,12.0
+886,motorola,59990,77.33333333333333,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,4450.0,Yes,6.67,144,3,1,200.0,60.0,1000,Android,12.0
+887,oneplus,47990,86.0,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,12,256,4800.0,Yes,6.7,120,3,1,50.0,16.0,1000,Android,12.0
+888,realme,40990,86.0,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,5000.0,Yes,6.7,120,3,1,50.0,16.0,1000,Android,12.0
+889,samsung,22999,74.0,No, NFC,octa,Exynos,Octa Core,2.432792990142388,8,128,6000.0,Yes,6.5,60,3,1,64.0,32.0,1000,Android,12.0
+890,samsung,12990,63.0,No, None,octa,Exynos,Octa Core,2.432792990142388,4,64,5000.0,Yes,6.5,60,2,1,48.0,5.0,1000,Android,12.0
+891,infinix,14999,79.0,No, None,helio,Helio G96,Octa Core,2.0,8,128,5000.0,Yes,6.7,60,3,1,50.0,16.0,512,Android,12.0
+892,poco,42999,86.0,Yes, IR Blaster,dimensity,Dimensity 1300,Octa Core,3.0,8,128,4500.0,Yes,6.67,120,3,1,64.0,20.0,1000,Android,12.0
+893,vivo,22990,83.0,No, None,snapdragon,Snapdragon  680,Octa Core,2.4,8,128,5000.0,Yes,6.44,120,3,1,50.0,16.0,1000,Android,12.0
+894,oppo,29990,81.0,Yes, None,snapdragon,Snapdragon 888,Octa Core,2.84,8,128,5000.0,Yes,6.62,120,3,1,50.0,16.0,1000,Android,12.0
+895,tecno,7399,62.0,No, None,unisoc,Unisoc  T606,Octa Core,2.0,3,64,5000.0,No,6.6,90,2,1,13.0,8.0,256,Android,11.0
+896,infinix,12799,77.0,No, None,helio,Helio G88,Octa Core,2.0,6,128,5000.0,Yes,6.7,60,3,1,50.0,16.0,1000,Android,11.0
+897,xiaomi,26999,86.0,Yes, IR Blaster,dimensity,Dimensity  920 5G,Octa Core,2.5,8,128,4500.0,Yes,6.67,120,3,1,108.0,16.0,1000,Android,11.0
+898,samsung,22999,82.0,Yes, None,dimensity,Dimensity 700 5G,Octa Core,2.2,8,128,5000.0,Yes,6.6,90,3,1,64.0,8.0,1000,Android,11.0
+899,apple,147900,84.0,Yes, NFC,bionic,Bionic A15,Hexa Core,3.22,6,1000,3095.0,Yes,6.1,120,3,1,12.0,12.0,1000,iOS,15.0
+900,nubia,44999,84.0,Yes, NFC,snapdragon,Snapdragon 888+,Octa Core,2.9,8,128,5050.0,Yes,6.8,165,3,1,64.0,8.0,1000,Android,11.0
+901,micromax,7790,68.0,No, None,unisoc,Unisoc  T610,Octa Core,1.8,6,64,5000.0,No,6.52,60,2,1,13.0,5.0,256,Android,11.0
+902,nokia,39990,87.0,Yes, None,snapdragon,Snapdragon  870,Octa Core,3.2,6,128,6000.0,Yes,6.51,144,4,1,200.0,16.0,1000,Harmony,2.0
+903,vivo,9999,65.0,No, None,snapdragon,Snapdragon  439,Octa Core,2.0,3,32,5000.0,No,6.51,60,2,1,13.0,8.0,1000,Android,11.0
+904,oppo,22990,80.0,Yes, None,snapdragon,Snapdragon 765G,Octa Core,2.4,6,128,4000.0,Yes,6.5,90,4,1,64.0,16.0,1000,Android,11.0
+905,poco,32999,79.0,Yes, IR Blaster,dimensity,Dimensity 1200,Octa Core,3.0,6,128,5065.0,Yes,6.67,120,3,1,64.0,16.0,1000,Android,11.0
+906,honor,32990,85.0,Yes, NFC,snapdragon,Snapdragon 778G,Octa Core,2.4,6,128,4300.0,Yes,6.57,120,4,1,108.0,32.0,1000,Android,11.0
+907,oppo,14999,74.0,No, None,helio,Helio P35,Octa Core,2.3,6,128,5000.0,Yes,6.51,60,3,1,13.0,16.0,256,Android,10.0
+908,realme,12499,74.0,No, None,helio,Helio G96,Octa Core,2.05,4,64,5000.0,Yes,6.6,120,3,1,50.0,16.0,256,Android,11.0
+909,iqoo,39990,84.0,Yes, NFC,snapdragon,Snapdragon  888,Octa Core,2.84,8,128,4000.0,Yes,6.62,120,3,1,48.0,16.0,1000,Android,11.0
+910,realme,6499,61.0,No, None,sc9863a,SC9863A,Octa Core,1.6,2,32,5000.0,No,6.52,60,1,1,8.0,5.0,1000,Android,11.0
+911,samsung,18499,76.0,No, None,helio,Helio G80,Octa Core,2.0,6,128,5000.0,Yes,6.4,60,4,1,48.0,13.0,1000,Android,11.0
+912,realme,30994,85.0,Yes, NFC,snapdragon,Snapdragon  888,Octa Core,2.84,8,128,4500.0,Yes,6.43,120,3,1,64.0,16.0,1000,Android,11.0
+913,google,32999,78.0,Yes, NFC,snapdragon,Snapdragon 765G,Octa Core,2.4,6,128,4620.0,Yes,6.34,60,2,1,16.0,8.0,1000,Android,11.0
+914,samsung,10499,73.0,No, None,exynos,Exynos 850,Octa Core,2.0,4,64,6000.0,Yes,6.5,90,4,1,48.0,8.0,512,Android,11.0
+915,samsung,19999,82.0,No, None,exynos,Exynos 9611,Octa Core,2.3,6,128,6000.0,Yes,6.4,60,3,1,64.0,32.0,512,Android,10.0
+916,samsung,17499,75.0,No, None,exynos,Exynos 850,Octa Core,2.0,6,128,5000.0,No,6.5,60,4,1,48.0,13.0,512,Android,10.0
+917,xiaomi,10990,69.0,No, None,helio,Helio G25,Octa Core,2.0,6,128,5000.0,No,6.53,60,1,1,13.0,5.0,512,Android,10.0
+918,vivo,19000,82.0,No, None,snapdragon,Snapdragon  665,Octa Core,2.0,8,128,4100.0,Yes,6.44,60,3,1,48.0,32.0,1000,Android,10.0
+919,oppo,13990,70.0,No, None,snapdragon,Snapdragon 460,Octa Core,1.8,6,128,5000.0,Yes,6.5,90,3,1,13.0,16.0,256,Android,10.0
+920,realme,10499,72.0,No, None,helio,Helio G85,Octa Core,2.0,4,64,6000.0,Yes,6.5,60,3,1,48.0,8.0,256,Android,10.0
+921,itel,5890,66.5,No, None,unisoc,Unisoc  A55,Octa Core,1.6,3,32,4000.0,No,6.09,60,2,1,8.0,5.0,128,Android,9.0
+922,realme,6490,61.0,No, None,helio,Helio G35,Octa Core,2.3,2,32,5000.0,No,6.5,60,2,1,13.0,5.0,256,Android,10.0
+923,xiaomi,54999,88.0,Yes, IR Blaster,snapdragon,Snapdragon  865,Octa Core,2.84,8,256,4780.0,Yes,6.67,90,4,1,108.0,20.0,1000,Android,10.0
+924,vivo,9990,65.0,No, None,snapdragon,Snapdragon 450,Octa Core,1.8,4,64,5000.0,No,6.5,60,2,1,13.0,13.0,256,Android,10.0
+925,oneplus,24999,79.0,No, None,snapdragon,Snapdragon 765G,Octa Core,2.4,8,128,4300.0,Yes,6.55,90,3,1,64.0,16.0,1000,Android,10.0
+926,sharp,59990,88.0,No, NFC,snapdragon,Snapdragon 865,Octa Core,2.84,12,256,3730.0,Yes,6.5,60,3,1,48.0,16.0,1000,Android,10.0
+927,samsung,9990,63.0,No, None,octa,Exynos,Octa Core,2.432792990142388,2,32,4000.0,Yes,6.4,60,3,1,13.0,8.0,512,Android,10.0
+928,realme,6999,68.0,No, None,helio,Helio P22,Octa Core,2.0,2,16,4000.0,No,6.1,60,2,1,13.0,5.0,256,Android,9.0
+929,huawei,169000,73.0,Yes, IR Blaster,kirin,Kirin  990,Octa Core,2.86,8,512,4500.0,Yes,8.0,60,4,1,48.0,16.55840248962656,1000,Android,12.0
+930,samsung,39990,78.0,No, NFC,snapdragon,Snapdragon 710,Octa Core,2.2,6,128,3400.0,Yes,6.4,60,3,1,24.0,24.0,512,Android,9.0
+931,samsung,21490,70.0,No, None,exynos,Exynos 7885,Octa Core,2.2,4,64,3300.0,No,6.0,60,3,1,24.0,24.0,512,Android,8.0
+932,vivo,13490,70.0,No, None,snapdragon,Snapdragon 425,Quad Core,1.2,3,16,2730.0,No,5.2,60,1,1,13.0,5.0,1000,Android,6.0
+933,poco,7999,70.0,No, None,helio,Helio  G85,Octa Core,2.0,4,64,5000.0,No,6.71,60,2,1,50.0,5.0,512,Android,12.0
+934,blackview,8990,67.0,Yes, NFC,helio,Helio G35,Octa Core,2.3,4,64,5180.0,Yes,6.1,60,2,1,13.0,8.0,1000,Android,12.0
+935,honor,13999,75.0,No, None,helio,Helio G37,Octa Core,2.3,6,128,5000.0,Yes,6.75,90,4,1,50.0,8.0,1000,Android,12.0
+936,oppo,13990,72.0,Yes, None,dimensity,Dimensity 700 5G,Octa Core,2.2,6,128,5000.0,Yes,6.56,90,2,1,13.0,8.0,1000,Android,12.0
+937,doogee,14999,84.0,No, NFC,helio,Helio G96,Octa Core,2.05,8,128,6000.0,Yes,6.3,60,3,1,108.0,32.0,1000,Android,12.0
+938,lava,6999,85.5,No, None,helio,Helio A22,Quad Core,2.0,3,32,4000.0,No,6.5,60,2,1,8.0,5.0,512,Android,12.0
+939,motorola,42990,87.0,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,4500.0,Yes,6.67,144,3,1,50.0,32.0,1000,Android,13.0
+940,oukitel,25899,72.0,No, NFC,helio,Helio P60,Octa Core,2.0,6,128,8000.0,No,5.86,60,3,1,16.0,8.0,1000,Android,10.0
+941,xiaomi,54999,89.0,Yes, IR Blaster,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,12,256,5000.0,Yes,6.43,120,3,1,50.0,32.0,1000,Android,13.0
+942,motorola,49990,89.0,Yes, NFC,snapdragon,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,5000.0,Yes,6.6,144,3,2,50.0,32.0,1000,Android,13.0
+943,xiaomi,32990,86.0,Yes, IR Blaster,dimensity,Dimensity 8200,Octa Core,3.1,8,256,5000.0,Yes,6.7,120,3,2,64.0,32.0,1000,Android,13.0
+944,realme,8720,64.0,No, None,tiger,Tiger T612,Octa Core,1.82,4,64,5000.0,Yes,6.5,60,1,1,8.0,5.0,1000,Android,11.0
+945,oppo,69990,89.0,Yes, NFC,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,8,256,4700.0,Yes,6.73,120,3,1,50.0,32.0,1000,Android,12.0
+946,itel,4787,84.5,No, None,spreadtrum,Spreadtrum  SC9832E,Quad Core,1.4,2,32,3020.0,No,5.0,60,1,1,2.0,16.55840248962656,1000,Android,11.0
+947,google,70990,80.0,Yes, NFC,google,Google  Tensor 3,Octa Core,2.432792990142388,12,256,5000.0,Yes,6.73,120,3,1,50.0,12.0,1000,Android,13.0
+948,vivo,119990,81.5,Yes, NFC,snapdragon,Snapdragon 8 Gen2,Octa Core,3.2,12,256,4800.0,Yes,8.03,120,3,1,50.0,32.0,1000,Android,12.0
+949,motorola,34990,83.0,Yes, None,snapdragon,Snapdragon 8 Gen1,Octa Core,3.0,8,128,5000.0,Yes,6.67,120,3,1,64.0,16.0,1000,Android,12.0
+950,honor,14990,75.0,Yes, None,snapdragon,Snapdragon  480+,Octa Core,2.2,6,128,5000.0,Yes,6.5,60,3,1,48.0,8.0,1000,Android,11.0
+951,poco,28990,85.0,Yes, IR Blaster,dimensity,Dimensity 8100,Octa Core,2.85,8,256,5080.0,Yes,6.453319502074689,60,3,1,64.0,16.0,1000,Android,12.0
+952,motorola,19990,80.0,Yes, NFC,snapdragon,Snapdragon 695,Octa Core,2.2,6,128,5000.0,Yes,6.8,60,3,1,108.0,32.0,1000,Android,12.0
+953,samsung,24990,74.0,Yes, None,octa,Exynos,Octa Core,2.432792990142388,8,128,5000.0,Yes,6.5,60,3,1,64.0,32.0,1000,Android,12.0
