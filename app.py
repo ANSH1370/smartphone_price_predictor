@@ -6,7 +6,9 @@ from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
+from sklearn.ensemble import RandomForestRegressor
 from sklearn.pipeline import Pipeline
+from sklearn.metrics import mean_absolute_error, mean_squared_error, median_absolute_error, r2_score
 
 
 df = pd.read_csv('final_smartphones.csv')
@@ -14,7 +16,6 @@ df.drop(columns='Unnamed: 0',inplace=True)
 
 X = df.drop(columns='price')
 y = df['price']
-X_train, X_test, y_train, y_test = train_test_split(X,y,test_size=0.2,random_state=2)
 #
 #
 # # import the model
@@ -27,17 +28,50 @@ step1 = ColumnTransformer(transformers=[('cols',
                          remainder='passthrough')
 step2 = LinearRegression()
 
-pipe = Pipeline([
+pipe1 = Pipeline([
     ('step1',step1),
     ('step2',step2)
 ])
-pipe.fit(X_train,y_train)
+pipe1.fit(X_train,y_train)
+y_pred_1 = pipe1.predict(X_test)
 
 
+# Random Forest Regressor
+
+s1 = ColumnTransformer(transformers=[('cols',
+                                    OneHotEncoder(sparse_output=False,drop='first',handle_unknown='ignore')
+                                         ,[0,2,3,4,5,6,11,19])],
+                         remainder='passthrough')
+s2 = RandomForestRegressor()
+
+pipe2 = Pipeline([
+    ('step1',s1),
+    ('step2',s2)
+])
+pipe2.fit(X_train,y_train)
+y_pred_2 = pipe2.predict(X_test)
 
 
+# Metrics for the MLR
+mae_1 = mean_absolute_error(y_test, y_pred_1)
+mse_1 = mean_squared_error(y_test, y_pred_1)
+rmse_1 = mean_squared_error(y_test, y_pred_1, squared=False)
+mape_1 = median_absolute_error(y_test, y_pred_1)
+r2_1 = r2_score(y_test, y_pred_1)
 
+# Metrics For the Random Forest
+mae_2 = mean_absolute_error(y_test, y_pred_2)
+mse_2 = mean_squared_error(y_test, y_pred_2)
+rmse_2 = mean_squared_error(y_test, y_pred_2, squared=False)
+mape_2 = median_absolute_error(y_test, y_pred_2)
+r2_2 = r2_score(y_test, y_pred_2)
 
+dic = {
+    'Multiple Linear Regressor': [ mae_1, mse_1, rmse_1, mape_1, r2_1 ],
+    'Random Forest Regressor':[ mae_2, mse_2, rmse_2, mape_2, r2_2]
+}
+
+metrics_df = pd.DataFrame(dic,index=['Mean Absolute Error','Mean Squared Error','Root Mean Squared Error ','Median Squared Error','R2 Score'])
 
 
 
@@ -142,7 +176,21 @@ version = st.selectbox('Select the Appropiate OS Version\n',sorted(df['OS_Versio
 st.text('\n')
 query = [[brand, rating, has_5G, chipset, processor_company, processor_name, processor_core, speed, ram, rom
     , battery, fast, display, refresh_rate, rear, front, rear_mp, front_mp, card, os, version]]
-if st.button("Predict Price"):
-    price = pipe.predict(query)
+if st.button("Predict Price "):
+    price = pipe2.predict(query)
     price = math.floor(price)
-    st.subheader('Predicted Price of the Smartphone may be:   ' + str(price)+'₹')
+    st.subheader('Predicted Price of the Smartphone Using Random Forest Regressor is :   ' + str(price)+'₹')
+
+    price = pipe1.predict(query)
+    price = math.floor(price)
+    st.subheader('Predicted Price of the Smartphone Using Multiple Linear Regression is :   ' + str(price)+'₹')
+
+
+
+st.sidebar.subheader('Evaluation of Models')
+if st.sidebar.button('show'):
+    st.empty()
+    st.sidebar.title('Comparison of Multiple Linear Regression and Random Forest Regressor ')
+    st.sidebar.write(metrics_df)
+    st.sidebar.subheader('Conclusion:-')
+    st.sidebar.write('Random Forest Regressor is more accurate than Regression models')
