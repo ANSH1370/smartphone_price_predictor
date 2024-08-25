@@ -1,4 +1,8 @@
-streamlit
+spacy
 numpy
 pandas
 scikit-learn
+flask
+pickle
+os
+nltk
