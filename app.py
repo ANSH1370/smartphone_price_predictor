@@ -55,14 +55,14 @@ y_pred_2 = pipe2.predict(X_test)
 # Metrics for the MLR
 mae_1 = mean_absolute_error(y_test, y_pred_1)
 mse_1 = mean_squared_error(y_test, y_pred_1)
-rmse_1 = mean_squared_error(y_test, y_pred_1, squared=False)
+rmse_1 = mean_squared_error(y_test, y_pred_1)
 mape_1 = median_absolute_error(y_test, y_pred_1)
 r2_1 = r2_score(y_test, y_pred_1)
 
 # Metrics For the Random Forest
 mae_2 = mean_absolute_error(y_test, y_pred_2)
 mse_2 = mean_squared_error(y_test, y_pred_2)
-rmse_2 = mean_squared_error(y_test, y_pred_2, squared=False)
+rmse_2 = mean_squared_error(y_test, y_pred_2)
 mape_2 = median_absolute_error(y_test, y_pred_2)
 r2_2 = r2_score(y_test, y_pred_2)
 
